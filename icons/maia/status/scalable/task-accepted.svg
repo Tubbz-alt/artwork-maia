@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created using Karbon, part of Calligra: http://www.calligra.org/karbon -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="38.4pt"
+   height="38.4pt"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="task-delegate.svg">
+  <metadata
+     id="metadata11">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="709"
+     inkscape:window-height="478"
+     id="namedview9"
+     showgrid="false"
+     inkscape:zoom="9.470257"
+     inkscape:cx="26.350693"
+     inkscape:cy="31.609331"
+     inkscape:window-x="101"
+     inkscape:window-y="325"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <defs
+     id="defs4" />
+  <g
+     id="layer0">
+    <path
+       id="path4149"
+       transform="translate(16.6147, 13.6851)"
+       fill="#2980b9"
+       fill-rule="evenodd"
+       d="M16.8539 0L0 16.8539L2.80382 19.6577L19.6577 2.80382Z" />
+    <rect
+       id="rect3339"
+       transform="matrix(0.707107 -0.707107 0.707107 0.707107 12.9428 27.0135)"
+       fill="#2980b9"
+       fill-rule="evenodd"
+       width="3.20000000000pt"
+       height="6.98239976000pt" />
+  </g>
+</svg>

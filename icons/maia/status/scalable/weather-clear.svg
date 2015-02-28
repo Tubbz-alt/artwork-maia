@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created using Karbon, part of Calligra: http://www.calligra.org/karbon -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="38.4pt"
+   height="38.4pt"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="user-away-extended.svg">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="971"
+     inkscape:window-height="706"
+     id="namedview8"
+     showgrid="false"
+     inkscape:zoom="6.1469579"
+     inkscape:cx="20.66209"
+     inkscape:cy="39.193738"
+     inkscape:window-x="653"
+     inkscape:window-y="159"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <defs
+     id="defs4" />
+  <g
+     id="layer0">
+    <path
+       id="shape0"
+       transform="translate(9.00002, 9.00002)"
+       fill="#f1c40f"
+       fill-rule="evenodd"
+       stroke="#003bc3"
+       stroke-width="0.00000000000"
+       stroke-linecap="square"
+       stroke-linejoin="miter"
+       stroke-miterlimit="2.01260185242"
+       d="M29.9909 14.2133C29.5572 6.01457 22.615 -0.313379 14.4113 0.0120057C6.20754 0.337391 -0.211615 7.19528 0.00534112 15.4026C0.222297 23.6098 6.9948 30.119 15.2043 30.0106C23.4138 29.9021 30.0119 23.2162 30.0119 15.006" />
+  </g>
+  <g
+     id="g4054"
+     transform="matrix(2.3537608,0,0,2.3537608,-31.331179,12.683346)">
+    <path
+       inkscape:connector-curvature="0"
+       inkscape:tile-y0="1.4729202"
+       inkscape:tile-x0="22.775493"
+       inkscape:tile-h="6.6699662"
+       inkscape:tile-w="1.464139"
+       inkscape:tile-cy="4.8079033"
+       inkscape:tile-cx="23.507562"
+       id="path4027"
+       d="m 24.239632,4.8079033 c 0,4.9864997 -0.327759,9.0288567 -0.732069,9.0288567 -0.404311,0 -0.73207,-4.042357 -0.73207,-9.0288567 0,-4.98649974 0.327759,-9.0288565 0.73207,-9.0288565 0.40431,0 0.732069,4.04235676 0.732069,9.0288565 z"
+       style="color:#000000;fill:#f1c40f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.60000002;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <use
+       id="use4030"
+       xlink:href="#path4027"
+       inkscape:tiled-clone-of="#path4027"
+       y="0"
+       x="0"
+       width="48"
+       height="48" />
+    <use
+       id="use4032"
+       transform="matrix(-0.17364818,0.98480775,-0.98480775,-0.17364818,32.324468,-17.507643)"
+       xlink:href="#path4027"
+       inkscape:tiled-clone-of="#path4027"
+       y="0"
+       x="0"
+       width="48"
+       height="48" />
+    <use
+       id="use4034"
+       transform="matrix(-0.93969262,-0.34202014,0.34202014,-0.93969262,43.953046,17.365914)"
+       xlink:href="#path4027"
+       inkscape:tiled-clone-of="#path4027"
+       y="0"
+       x="0"
+       width="48"
+       height="48" />
+    <use
+       id="use4036"
+       transform="matrix(0.5,-0.8660254,0.8660254,0.5,7.5900149,22.762098)"
+       xlink:href="#path4027"
+       inkscape:tiled-clone-of="#path4027"
+       y="0"
+       x="0"
+       width="48"
+       height="48" />
+    <use
+       id="use4038"
+       transform="matrix(0.76604444,0.64278761,-0.64278761,0.76604444,8.5901855,-13.985534)"
+       xlink:href="#path4027"
+       inkscape:tiled-clone-of="#path4027"
+       y="0"
+       x="0"
+       width="48"
+       height="48" />
+    <use
+       id="use4040"
+       transform="matrix(-0.76604444,0.64278761,-0.64278761,-0.76604444,44.605861,-6.619399)"
+       xlink:href="#path4027"
+       inkscape:tiled-clone-of="#path4027"
+       y="0"
+       x="0"
+       width="48"
+       height="48" />
+    <use
+       id="use4042"
+       transform="matrix(-0.5,-0.8660254,0.8660254,-0.5,31.097577,27.570001)"
+       xlink:href="#path4027"
+       inkscape:tiled-clone-of="#path4027"
+       y="0"
+       x="0"
+       width="48"
+       height="48" />
+    <use
+       id="use4044"
+       transform="matrix(0.93969262,-0.34202014,0.34202014,0.93969262,-0.22672029,8.3300119)"
+       xlink:href="#path4027"
+       inkscape:tiled-clone-of="#path4027"
+       y="0"
+       x="0"
+       width="48"
+       height="48" />
+    <use
+       id="use4046"
+       transform="matrix(0.17364818,0.98480775,-0.98480775,0.17364818,24.160378,-19.17741)"
+       xlink:href="#path4027"
+       inkscape:tiled-clone-of="#path4027"
+       y="0"
+       x="0"
+       width="48"
+       height="48" />
+    <use
+       id="use4048"
+       transform="matrix(-1,0,0,-1,47.015125,9.6158066)"
+       xlink:href="#path4027"
+       inkscape:tiled-clone-of="#path4027"
+       y="0"
+       x="0"
+       width="48"
+       height="48" />
+    <use
+       id="use4050"
+       transform="matrix(0.17364818,-0.98480775,0.98480775,0.17364818,14.690657,27.123449)"
+       xlink:href="#path4027"
+       inkscape:tiled-clone-of="#path4027"
+       y="0"
+       x="0"
+       width="48"
+       height="48" />
+    <use
+       id="use4052"
+       transform="matrix(0.93969262,0.34202014,-0.34202014,0.93969262,3.0620793,-7.7501078)"
+       xlink:href="#path4027"
+       inkscape:tiled-clone-of="#path4027"
+       y="0"
+       x="0"
+       width="48"
+       height="48" />
+  </g>
+</svg>

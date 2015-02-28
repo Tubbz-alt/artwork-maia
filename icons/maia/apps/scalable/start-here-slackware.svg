@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created using Karbon, part of Calligra: http://www.calligra.org/karbon -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="96"
+   height="96"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="start-here-slackware.svg">
+  <metadata
+     id="metadata12">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="709"
+     id="namedview10"
+     showgrid="false"
+     inkscape:zoom="3.3818254"
+     inkscape:cx="28.202925"
+     inkscape:cy="34.831376"
+     inkscape:window-x="0"
+     inkscape:window-y="-3"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <defs
+     id="defs4">
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern3144"
+       id="pattern4049"
+       patternTransform="matrix(0.16599816,0,0,0.16599816,-47.805677,48.999934)" />
+    <pattern
+       patternTransform="matrix(0.16599816,0,0,0.16599816,-47.805677,51.475322)"
+       id="pattern3144"
+       xlink:href="#pattern13210"
+       inkscape:collect="always" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern8174"
+       id="pattern13210"
+       patternTransform="translate(-298.34995,240.86648)" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="3.2504171"
+       height="2.7860718"
+       patternTransform="translate(-298.34995,240.86648)"
+       id="pattern8174">
+      <g
+         transform="matrix(3.3167521e-2,0,0,3.3167521e-2,21.890564,-5.3731384)"
+         id="g7182">
+        <rect
+           style="opacity:0.98999999;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect6203"
+           width="32"
+           height="28"
+           x="-658"
+           y="162" />
+        <rect
+           style="opacity:0.98999999;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect7174"
+           width="32"
+           height="28"
+           x="-626"
+           y="190" />
+        <rect
+           style="opacity:0.98999999;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect7176"
+           width="32"
+           height="28"
+           x="-594"
+           y="162" />
+        <rect
+           style="opacity:0.98999999;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect7178"
+           width="32"
+           height="28"
+           x="-594"
+           y="218" />
+        <rect
+           style="opacity:0.98999999;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect7180"
+           width="32"
+           height="28"
+           x="-660"
+           y="218" />
+      </g>
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern8174"
+       id="pattern3125"
+       patternTransform="translate(-298.34995,240.86648)" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="3.2504171"
+       height="2.7860718"
+       patternTransform="translate(-298.34995,240.86648)"
+       id="pattern3127">
+      <g
+         transform="matrix(3.3167521e-2,0,0,3.3167521e-2,21.890564,-5.3731384)"
+         id="g3129">
+        <rect
+           style="opacity:0.98999999;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect3131"
+           width="32"
+           height="28"
+           x="-658"
+           y="162" />
+        <rect
+           style="opacity:0.98999999;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect3133"
+           width="32"
+           height="28"
+           x="-626"
+           y="190" />
+        <rect
+           style="opacity:0.98999999;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect3135"
+           width="32"
+           height="28"
+           x="-594"
+           y="162" />
+        <rect
+           style="opacity:0.98999999;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect3137"
+           width="32"
+           height="28"
+           x="-594"
+           y="218" />
+        <rect
+           style="opacity:0.98999999;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect3139"
+           width="32"
+           height="28"
+           x="-660"
+           y="218" />
+      </g>
+    </pattern>
+  </defs>
+  <g
+     id="g3808"
+     transform="matrix(1.8873226,0,0,1.8873225,2.6930427,2.6930433)">
+    <rect
+       y="0"
+       x="0"
+       style="fill:#cccccc;fill-rule:evenodd;stroke:none"
+       height="40.004005"
+       width="40.004005"
+       stroke-miterlimit="2.00000000000"
+       transform="translate(4.00394,4.00394)"
+       id="rect3810" />
+    <rect
+       y="0"
+       x="0"
+       id="rect3812"
+       transform="translate(4.00394,4.00394)"
+       stroke-miterlimit="2.00000000000"
+       width="40.004005"
+       height="40.004005"
+       style="fill:#3a5ea7;fill-opacity:0.99607843;fill-rule:evenodd;stroke:none" />
+  </g>
+  <g
+     id="g3005"
+     transform="matrix(2.5510293,0,0,2.3451827,-13.224703,-120.8771)">
+    <text
+       inkscape:export-filename="/home/bobby/Desktop/1.png"
+       sodipodi:linespacing="125%"
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       transform="scale(1.1197011,0.89309548)"
+       id="text6114"
+       y="90.360466"
+       x="10.521164"
+       style="font-size:4.2186594px;font-style:normal;font-weight:normal;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         style="font-size:33.83813095px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Courier 10 Pitch"
+         y="90.360466"
+         x="10.521164"
+         id="tspan6116"
+         sodipodi:role="line">S</tspan></text>
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/bobby/Desktop/1.png"
+       id="path26799"
+       d="m 11.856575,78.277032 0.154694,6.976581 24.132156,0 0,0"
+       style="fill:none;stroke:#000000;stroke-width:0.95054817;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>

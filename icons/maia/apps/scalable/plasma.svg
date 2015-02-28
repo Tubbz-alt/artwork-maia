@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created using Karbon, part of Calligra: http://www.calligra.org/karbon -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="38.4pt"
+   height="38.4pt"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="plasma.svg">
+  <metadata
+     id="metadata13">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="701"
+     id="namedview11"
+     showgrid="false"
+     inkscape:zoom="2.4583332"
+     inkscape:cx="20.550481"
+     inkscape:cy="54.545924"
+     inkscape:window-x="-4"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <defs
+     id="defs4" />
+  <g
+     id="g2987"
+     transform="matrix(1.2647059,0,0,1.0730756,-6.3529406,-1.7153258)">
+    <path
+       style="fill:#e6e6e6;fill-opacity:1"
+       d="M 0,0 0,40 34,40 34,-0.0717333 23,0 Z"
+       transform="translate(7,4)"
+       id="path2989"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccc" />
+    <g
+       transform="translate(10.9749,16.1118)"
+       id="g2993"
+       style="fill:none" />
+  </g>
+  <g
+     id="g4149"
+     transform="matrix(0.67924493,0,0,0.67924493,47.347607,13.224183)">
+    <path
+       id="path4422"
+       d="m -25.372873,-10.635607 -6,5.9999998 11,11 -11,11.0000002 6,6 17,-17.0000002 -17,-16.9999998 z"
+       style="fill:#3b3f42;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:connector-curvature="0" />
+    <rect
+       ry="3.1250095"
+       y="-9.6356335"
+       x="-50.62289"
+       height="6.2500191"
+       width="6.2500191"
+       id="rect4119"
+       style="opacity:1;fill:#fa8865;fill-opacity:1;stroke:none" />
+    <rect
+       style="opacity:1;fill:#63c605;fill-opacity:1;stroke:none"
+       id="rect4308"
+       width="9.0000191"
+       height="8.9999905"
+       x="-60.37289"
+       y="9.8651886"
+       ry="4.4999952" />
+    <rect
+       ry="6.4999976"
+       y="29.364426"
+       x="-47.37286"
+       height="12.999995"
+       width="12.999995"
+       id="rect4312"
+       style="opacity:1;fill:#1b89f3;fill-opacity:1;stroke:none" />
+  </g>
+</svg>

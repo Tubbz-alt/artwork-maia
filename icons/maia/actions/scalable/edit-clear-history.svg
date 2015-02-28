@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48"
+   height="48"
+   id="svg3381"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="draw-eraser.svg">
+  <defs
+     id="defs3383" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="12.119354"
+     inkscape:cx="2.6074895"
+     inkscape:cy="22.770305"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1366"
+     inkscape:window-height="709"
+     inkscape:window-x="0"
+     inkscape:window-y="-3"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       position="9.0000117,39.000009"
+       orientation="30.000031,0"
+       id="guide3264" />
+    <sodipodi:guide
+       position="9.0000117,8.9999785"
+       orientation="0,30"
+       id="guide3266" />
+    <sodipodi:guide
+       position="39.000012,34.58801"
+       orientation="-30.000031,0"
+       id="guide3268" />
+    <sodipodi:guide
+       position="39.000012,39.000009"
+       orientation="0,-30"
+       id="guide3270" />
+    <sodipodi:guide
+       position="9.0000117,19.999979"
+       orientation="11,0"
+       id="guide3276" />
+    <sodipodi:guide
+       position="24.000012,39.000009"
+       orientation="15.000031,0"
+       id="guide3311" />
+    <sodipodi:guide
+       position="24.000012,23.999979"
+       orientation="0,15"
+       id="guide3313" />
+    <sodipodi:guide
+       position="39.000012,39.000009"
+       orientation="0,-15"
+       id="guide3317" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="3.1506436,41.950236"
+       id="guide3006" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata3386">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-364.57143,-499.79075)">
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#000000;stroke-width:0.44545501;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:2.25"
+       id="path3022"
+       sodipodi:cx="3.0047805"
+       sodipodi:cy="30.434206"
+       sodipodi:rx="1.0793872"
+       sodipodi:ry="1.7464851"
+       d="m 4.0841677,30.434206 a 1.0793872,1.7464851 0 1 1 -2.1587744,0 1.0793872,1.7464851 0 1 1 2.1587744,0 z"
+       transform="matrix(1.3599264,0,0,1.3340724,363.78166,490.14863)" />
+    <g
+       id="g3917"
+       transform="matrix(0.91600389,0.77979841,-0.79645617,0.8968458,448.57518,-250.29145)">
+      <rect
+         transform="matrix(0.99995962,0.00898693,0.01837181,0.99983122,0,0)"
+         y="503.40961"
+         x="370.44147"
+         height="35.693142"
+         width="18.692621"
+         id="rect3903"
+         style="fill:#b3b3b3;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.41637048;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <rect
+         style="fill:#1a1a1a;fill-opacity:1;fill-rule:evenodd;stroke:none"
+         id="rect3913"
+         width="18.754211"
+         height="26.28488"
+         x="372.71927"
+         y="500.61301"
+         transform="matrix(0.99986642,0.01634459,0.01409768,0.99990062,0,0)" />
+      <rect
+         transform="matrix(0.99987317,0.01592622,0.01631795,0.99986685,0,0)"
+         y="502.18588"
+         x="376.72214"
+         height="24.498432"
+         width="7.9409738"
+         id="rect3915"
+         style="fill:#b3b3b3;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:6px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Century Schoolbook L;-inkscape-font-specification:Century Schoolbook L Medium"
+       x="365.23169"
+       y="505.10251"
+       id="text2994"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan2996"
+         x="365.23169"
+         y="505.10251">H</tspan><tspan
+         sodipodi:role="line"
+         x="365.23169"
+         y="512.60248"
+         id="tspan2998" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Century Schoolbook L;-inkscape-font-specification:Century Schoolbook L Medium"
+       x="1.8087028"
+       y="12.409396"
+       id="text3008"
+       sodipodi:linespacing="125%"
+       transform="translate(364.57143,499.79075)"><tspan
+         sodipodi:role="line"
+         id="tspan3010"
+         x="1.8087028"
+         y="12.409396">I</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Century Schoolbook L;-inkscape-font-specification:Century Schoolbook L Medium"
+       x="365.97171"
+       y="519.14325"
+       id="text3012"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3014"
+         x="365.97171"
+         y="519.14325">S</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Century Schoolbook L;-inkscape-font-specification:Century Schoolbook L Medium"
+       x="365.79666"
+       y="526.4364"
+       id="text3016"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3018"
+         x="365.79666"
+         y="526.4364">T</tspan></text>
+  </g>
+</svg>

@@ -23,7 +23,7 @@ include(KDECompilerSettings)
 include(GenerateExportHeader)
 
 add_subdirectory(icons)
-add_subdirectory(plasma)
+add_subdirectory(maia)
 
 plasma_install_package(lookandfeel org.kde.maia.desktop look-and-feel lookandfeel)
     

@@ -8,7 +8,7 @@ ColorScheme=Maia
 Theme=maia
 
 [plasmarc][Theme]
-name=default
+name=maia
 
 [kcminputrc][Mouse]
 cursorTheme=breeze_cursors

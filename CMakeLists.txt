@@ -2,13 +2,9 @@ project(MaiaTheme)
 
 cmake_minimum_required(VERSION 3.0.0 FATAL_ERROR)
 
-# Macro to print feature summary
+include(WriteBasicConfigVersionFile)
 include(FeatureSummary)
 
-# Find includes in corresponding build directories
-set(CMAKE_INCLUDE_CURRENT_DIR ON)
-
-# Find ECM
 find_package(ECM 1.5.0 REQUIRED NO_MODULE)
 set(CMAKE_MODULE_PATH ${ECM_MODULE_PATH} ${ECM_KDE_MODULE_DIR})
 
@@ -18,39 +14,23 @@ set(THEME_VERSION_MINOR 1)
 set(THEME_VERSION_PATCH 0)
 set(THEME_VERSION_STRING "${THEME_VERSION_MAJOR}.${THEME_VERSION_MINOR}.${THEME_VERSION_PATCH}")
 
-# Installation directories
-include(KDEInstallDirs)
-
-# Add custom uninstall target
-configure_file(
-    "${CMAKE_CURRENT_SOURCE_DIR}/cmake_uninstall.cmake.in"
-    "${CMAKE_CURRENT_BINARY_DIR}/cmake_uninstall.cmake"
-    IMMEDIATE @ONLY)
-add_custom_target(uninstall "${CMAKE_COMMAND}" -P "${CMAKE_CURRENT_BINARY_DIR}/cmake_uninstall.cmake")
-
-# Set up packaging
-set(CPACK_PACKAGE_NAME "maia-theme")
-set(CPACK_PACKAGE_VERSION "${THEME_VERSION_STRING}")
-set(CPACK_GENERATOR "TGZ")
-set(CPACK_SET_DESTDIR FALSE)
-set(CPACK_SOURCE_PACKAGE_FILE_NAME "${CPACK_PACKAGE_NAME}-${CPACK_PACKAGE_VERSION}")
-set(CPACK_SOURCE_IGNORE_FILES "/build/;/.git;/*.user;/.tx/;~$;${CPACK_SOURCE_IGNORE_FILES}")
-include(CPack)
-add_custom_target(dist COMMAND ${CMAKE_MAKE_PROGRAM} package_source)
-
-# Minimum version requirements
-set(QT_MIN_VERSION "5.4.0")
-set(KF5_MIN_VERSION "5.5.0")
-
-# Find KF5
 find_package(KF5 ${KF5_MIN_VERSION} REQUIRED COMPONENTS Plasma)
+  
+include(ECMInstallIcons)
+include(KDEInstallDirs)
+include(KDECMakeSettings)
+include(KDECompilerSettings)
+include(GenerateExportHeader)
 
-# Subdirectories
-add_subdirectory(colors)
 add_subdirectory(icons)
-add_subdirectory(kservices5)
-add_subdirectory(look-and-feel)
 add_subdirectory(plasma)
 
-# Display featute summary
-feature_summary(WHAT ALL FATAL_ON_MISSING_REQUIRED_PACKAGES)
+plasma_install_package(lookandfeel org.kde.maia.desktop look-and-feel lookandfeel)
+    
+INSTALL(FILES colors/Maia.colors DESTINATION ${DATA_INSTALL_DIR}/color-schemes/)
+if(EXISTS ${CMAKE_SOURCE_DIR}/po AND IS_DIRECTORY ${CMAKE_SOURCE_DIR}/po)
+  find_package(KF5I18n CONFIG REQUIRED)
+  ki18n_install(po)
+endif()
+
+feature_summary(WHAT ALL INCLUDE_QUIET_PACKAGES FATAL_ON_MISSING_REQUIRED_PACKAGES)

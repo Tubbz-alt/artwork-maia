@@ -10,7 +10,7 @@ set(CMAKE_MODULE_PATH ${ECM_MODULE_PATH} ${ECM_KDE_MODULE_DIR})
 
 # Set version
 set(THEME_VERSION_MAJOR 0)
-set(THEME_VERSION_MINOR 1)
+set(THEME_VERSION_MINOR 2)
 set(THEME_VERSION_PATCH 0)
 set(THEME_VERSION_STRING "${THEME_VERSION_MAJOR}.${THEME_VERSION_MINOR}.${THEME_VERSION_PATCH}")
 
@@ -26,7 +26,10 @@ add_subdirectory(icons)
 add_subdirectory(maia)
 
 plasma_install_package(lookandfeel org.kde.maia.desktop look-and-feel lookandfeel)
-    
+
+install(DIRECTORY lookandfeel/contents/loginmanager/ DESTINATION ${CMAKE_INSTALL_PREFIX}/share/sddm/themes/maia PATTERN "README.txt" EXCLUDE)
+install(DIRECTORY lookandfeel/contents/components DESTINATION ${CMAKE_INSTALL_PREFIX}/share/sddm/themes/maia PATTERN "README.txt" EXCLUDE)
+
 INSTALL(FILES colors/Maia.colors DESTINATION ${DATA_INSTALL_DIR}/color-schemes/)
 if(EXISTS ${CMAKE_SOURCE_DIR}/po AND IS_DIRECTORY ${CMAKE_SOURCE_DIR}/po)
   find_package(KF5I18n CONFIG REQUIRED)

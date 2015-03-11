@@ -24,6 +24,7 @@ include(GenerateExportHeader)
 
 add_subdirectory(icons)
 add_subdirectory(maia)
+add_subdirectory(wallpapers)
 
 plasma_install_package(lookandfeel org.kde.maia.desktop look-and-feel lookandfeel)
 

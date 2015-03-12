@@ -16,6 +16,6 @@ X-Plasma-API=5.0
 
 [Wallpaper]
 defaultWallpaperTheme=Maia
-defaultFileSuffix=.jpg
-defaultWidth=2546
-defaultHeight=1591
+defaultFileSuffix=.png
+defaultWidth=1920
+defaultHeight=1080

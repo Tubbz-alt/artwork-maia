@@ -1,0 +1,16 @@
+[SddmGreeterTheme]
+Name=Maia
+Description=Maia Theme
+Author=mcder3
+Copyright=n/a
+License=CC BY SA
+Type=sddm-theme
+Version=0.1
+Website=https://github.com/sddm/sddm
+Screenshot=maia.png
+MainScript=Main.qml
+ConfigFile=theme.conf
+TranslationsDirectory=translations
+Email=mcder3@gmail.com
+Theme-Id=maia
+Theme-API=2.0

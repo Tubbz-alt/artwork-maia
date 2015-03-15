@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="40"
+   height="40"
+   viewBox="0 0 32 32"
+   version="1.1"
+   id="svg2"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="shutdown_primary.svg">
+  <metadata
+     id="metadata11">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs9" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="697"
+     id="namedview7"
+     showgrid="false"
+     units="px"
+     inkscape:zoom="5.9"
+     inkscape:cx="20"
+     inkscape:cy="20"
+     inkscape:window-x="-4"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <g
+     id="system-shutdown"
+     transform="matrix(1.4545455,0,0,1.4545455,2.409091e-6,5.046347e-5)">
+    <path
+       inkscape:connector-curvature="0"
+       id="path3019"
+       d="m 9.999979,1.4999828 0,8 2,0 0,-8 -2,0 z m -1,1.25 c -4.0054283,0.911331 -7,4.4686327 -7,8.7500002 0,4.970563 4.0294373,9 9,9 4.970563,0 9,-4.029437 9,-9 0,-4.2813675 -2.994572,-7.8386692 -7,-8.7500002 l 0,1 c 3.452976,0.8863558 6,4.0205315 6,7.7500002 0,4.418278 -3.581722,8 -8,8 -4.418278,0 -8,-3.581722 -8,-8 0,-3.7294687 2.547024,-6.8636444 6,-7.7500002 l 0,-1 z"
+       style="fill:#f7f7f7;fill-opacity:1;stroke:none" />
+    <rect
+       y="-3.5037385e-05"
+       x="-2e-06"
+       height="22"
+       width="22"
+       id="rect3798"
+       style="fill:#566060;fill-opacity:0;stroke:none" />
+  </g>
+</svg>

@@ -32,7 +32,7 @@ Image {
         }
     }
     Rectangle {
-        id: rectangulo
+        id: bottomRect
         width: parent.width
         y: -height
         height: 50
@@ -70,7 +70,7 @@ Image {
         ParallelAnimation {
             PropertyAnimation {
                 property: "y"
-                target: rectangulo
+                target: bottomRect
                 to: root.height / 2
                 duration: 1000
                 easing.type: Easing.InOutBack

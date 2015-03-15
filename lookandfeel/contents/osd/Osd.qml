@@ -16,6 +16,7 @@
  */
 
 import QtQuick 2.0
+import QtQuick.Window 2.2
 import org.kde.plasma.core 2.0 as PlasmaCore
 import org.kde.plasma.components 2.0 as PlasmaComponents
 import org.kde.plasma.extras 2.0 as PlasmaExtra
@@ -37,7 +38,61 @@ PlasmaCore.Dialog {
     // false for displaying the value as normal text
     property bool showingProgress: false
 
-    mainItem: OsdItem {
-        rootItem: root
+    mainItem: Item {
+        height: Math.min(units.gridUnit * 15, Screen.desktopAvailableHeight / 3)
+        width: height
+
+        //  /--------------------\
+        //  |      spacing       |
+        //  | /----------------\ |
+        //  | |                | |
+        //  | |      icon      | |
+        //  | |                | |
+        //  | |                | |
+        //  | \----------------/ |
+        //  |      spacing       |
+        //  | [progressbar/text] |
+        //  |      spacing       |
+        //  \--------------------/
+
+        PlasmaCore.IconItem {
+            id: icon
+
+            height: parent.height - progressBar.height - ((units.largeSpacing/2) * 3) //it's an svg
+            width: parent.width
+
+            source: root.icon
+        }
+
+        PlasmaComponents.ProgressBar {
+            id: progressBar
+
+            anchors {
+                bottom: parent.bottom
+                left: parent.left
+                right: parent.right
+                margins: Math.floor(units.largeSpacing / 2)
+            }
+
+            visible: root.showingProgress
+            minimumValue: 0
+            maximumValue: 100
+            value: visible ? root.osdValue : 0
+
+        }
+        PlasmaExtra.Heading {
+            anchors {
+                bottom: parent.bottom
+                left: parent.left
+                right: parent.right
+                margins: Math.floor(units.largeSpacing / 2)
+            }
+
+            visible: !root.showingProgress
+            text: root.showingProgress ? "" : (root.osdValue ? root.osdValue : "")
+            horizontalAlignment: Text.AlignHCenter
+            wrapMode: Text.NoWrap
+            elide: Text.ElideLeft
+        }
     }
 }

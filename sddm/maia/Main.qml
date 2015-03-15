@@ -194,7 +194,7 @@ Rectangle {
                     id: session
                     width: 245
                     anchors.verticalCenter: parent.verticalCenter
-                    borderColor: "#1abc9c" 
+                    borderColor: "#292f34" 
                     arrowIcon: "angle-down.png"
                     focusColor: "#1abc9c"
                     hoverColor: "#1abc9c"
@@ -221,7 +221,7 @@ Rectangle {
                     width: 90
                     anchors.verticalCenter: parent.verticalCenter
                     font.pixelSize: 14
-                    borderColor: "#1abc9c"
+                    borderColor: "#292f34"
                     focusColor: "#1abc9c"
                     hoverColor: "#1abc9c"
                     arrowIcon: "angle-down.png"

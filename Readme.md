@@ -8,3 +8,4 @@ Maia Look & Feel package.
 * color scheme
 * icons
 * plasma theme
+* sddm

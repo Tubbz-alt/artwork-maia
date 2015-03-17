@@ -58,9 +58,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="16.639531"
-     inkscape:cx="-2.282437"
-     inkscape:cy="7.8413111"
+     inkscape:zoom="11.765925"
+     inkscape:cx="0.87356851"
+     inkscape:cy="8.5008055"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:grid-bbox="true"
@@ -77,7 +77,10 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:object-nodes="true">
+     inkscape:object-nodes="true"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-nodes="false"
+     inkscape:snap-nodes="false">
     <inkscape:grid
        type="xygrid"
        id="grid4105"
@@ -133,18 +136,10 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      transform="translate(-3,-29)">
-    <g
-       transform="matrix(0.02734375,0,0,0.03645833,4,27.666668)"
-       id="g3"
-       style="fill:#1a1a1a">
-      <path
-         inkscape:connector-curvature="0"
-         d="M 446.844,208.875 C 447.625,203.313 448,197.656 448,192 448,121.437 390.594,64 320,64 279.062,64 241.469,83.344 217.656,115.063 209.25,113.031 200.688,112 192,112 130.25,112 80,162.25 80,224 c 0,1.563 0.031,3.094 0.094,4.625 C 33.813,242.375 0,285.313 0,336 0,397.75 50.25,448 112,448 l 272,0 c 70.594,0 128,-57.406 128,-128 0,-46.656 -25.656,-88.812 -65.156,-111.125 z M 384,416 112,416 c -44.188,0 -80,-35.813 -80,-80 0,-44.187 35.813,-80 80,-80 2.438,0 4.75,0.5 7.125,0.719 -4.5,-10 -7.125,-21.031 -7.125,-32.719 0,-44.188 35.813,-80 80,-80 14.438,0 27.813,4.125 39.5,10.813 C 246,120.25 280.156,96 320,96 c 53.031,0 96,42.969 96,96 0,12.625 -2.594,24.625 -7.031,35.688 40.844,11.062 71.031,48 71.031,92.312 0,53.031 -42.969,96 -96,96 z"
-         id="path5"
-         style="fill:#1a1a1a" />
-      <g
-         id="g3036"
-         transform="matrix(0,0.83755709,-1.1939485,0,599.85716,73.585384)" />
-    </g>
+    <path
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#1a1a1a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="M 9.9980469 1 C 8.5871249 1.0012 7.4489683 1.863581 6.734375 3.03125 C 6.656843 3.02565 6.5817651 3.00039 6.5039062 3 L 6.5019531 3 L 6.5 3 C 4.5788453 2.999996 2.9999963 4.578846 3 6.5 C 3.0000404 6.805534 3.2154436 7.0930807 3.2929688 7.4023438 C 1.9224572 8.0539577 1.0009917 9.4332729 1 10.998047 L 1 11 C 0.9999963 13.197297 2.802703 15.000004 5 15 L 10 15 C 12.749582 15.000005 15.000005 12.749582 15 10 L 15 9.9980469 C 14.99775 8.6804969 14.38084 7.4980676 13.470703 6.5722656 C 13.70087 6.0609086 13.999142 5.567297 14 5 C 14.000004 2.802703 12.197297 0.999996 10 1 L 9.9980469 1 z M 10 2 C 11.656855 1.9999972 13.000003 3.3431446 13 5 C 12.999016 5.6506712 12.786512 6.283384 12.394531 6.8027344 C 13.403047 7.5564292 13.99785 8.7409703 14 10 C 14.000004 12.209141 12.209141 14.000004 10 14 L 5 14 C 3.3431446 14.000003 1.9999972 12.656855 2 11 C 2.0009344 9.5255796 3.0262625 8.2547732 4.4824219 8.0234375 C 4.1392617 7.583815 3.9998268 7.0576977 4 6.5 C 3.9999973 5.119287 5.119287 3.9999973 6.5 4 C 6.7177546 4.0011015 6.9344322 4.0306484 7.1445312 4.0878906 C 7.541157 2.8451061 8.6954602 2.0010911 10 2 z "
+       transform="translate(3,29)"
+       id="path4170" />
   </g>
 </svg>

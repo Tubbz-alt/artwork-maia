@@ -14,7 +14,7 @@
    id="svg5453"
    version="1.1"
    inkscape:version="0.91+devel r"
-   sodipodi:docname="user-trash-full.svg">
+   sodipodi:docname="bleachbit.svg">
   <defs
      id="defs5455" />
   <sodipodi:namedview
@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="16.000001"
-     inkscape:cx="36.675665"
-     inkscape:cy="35.103283"
+     inkscape:zoom="11.033249"
+     inkscape:cx="24.76714"
+     inkscape:cy="41.330088"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -108,9 +108,9 @@
      id="layer1"
      transform="translate(-384.57143,-483.798)">
     <path
-       inkscape:connector-curvature="0"
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#bdc3c7;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-       d="m 407.57143,489.798 -3,6 0,5 -6,0 -6,0 0,6 6,0 0,35 36,0 0,-35 6,0 0,-6 -6,0 -6,0 0,-5 -3,-6 0,11 -18,0 0,-11 z"
+       d="M 23 6 L 20 12 L 20 17 L 14 17 L 8 17 L 8 23 L 14 23 L 14 58 L 50 58 L 50 23 L 56 23 L 56 17 L 50 17 L 44 17 L 44 12 L 41 6 L 41 17 L 23 17 L 23 6 z "
+       transform="translate(384.57143,483.798)"
        id="rect4251" />
     <rect
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.25;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
@@ -128,7 +128,8 @@
        y="489.798" />
     <path
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#7f8c8d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-       d="m 403.57143,512.798 0,21 2,0 0,-21 z m 12,0 0,21 2,0 0,-21 z m 12,0 0,21 2,0 0,-21 z"
+       d="m 19,29 0,21 2,0 0,-21 z m 12,0 0,21 2,0 0,-21 z m 12,0 0,21 2,0 0,-21 z"
+       transform="translate(384.57143,483.798)"
        id="rect4265"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccccccccc" />
@@ -139,24 +140,5 @@
        height="1.0000042"
        x="398.57144"
        y="506.798" />
-    <path
-       style="fill:#c0392b;fill-opacity:1;stroke:none"
-       d="M 31 23 L 31 40 L 38 36 L 45 40 L 45 23 L 38 23 L 31 23 z "
-       transform="translate(384.57143,483.798)"
-       id="path3333" />
-    <path
-       id="path4187"
-       transform="translate(384.57143,483.798)"
-       d="m 32,24 0,14.4 6,-3.4 6,3.4 0,-14.4 -6,0 z"
-       style="fill:#e74c3c;fill-opacity:1;stroke:none"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccccc" />
-    <rect
-       style="opacity:1;fill:#e95c4d;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect4189"
-       width="12"
-       height="2"
-       x="416.57144"
-       y="507.798" />
   </g>
 </svg>

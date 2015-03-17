@@ -14,7 +14,7 @@
    id="svg4359"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="folder-activities.svg">
+   sodipodi:docname="user-trash.svg">
   <defs
      id="defs4361">
     <linearGradient
@@ -58,9 +58,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="23.53185"
-     inkscape:cx="0.71922128"
-     inkscape:cy="9.7109265"
+     inkscape:zoom="16.639531"
+     inkscape:cx="8.2257518"
+     inkscape:cy="7.0941705"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:grid-bbox="true"
@@ -100,11 +100,11 @@
        orientation="0,-16"
        id="guide4211" />
     <sodipodi:guide
-       position="1,7"
+       position="2.0000086,15"
        orientation="12,0"
        id="guide4213" />
     <sodipodi:guide
-       position="15,9"
+       position="14,1"
        orientation="-12,0"
        id="guide4217" />
     <sodipodi:guide
@@ -112,9 +112,17 @@
        orientation="0,-12"
        id="guide4219" />
     <sodipodi:guide
+       position="2.0000086,8"
+       orientation="6,0"
+       id="guide4223" />
+    <sodipodi:guide
        position="2.0000086,1"
        orientation="0,11.999984"
        id="guide4225" />
+    <sodipodi:guide
+       position="13.999992,2"
+       orientation="-6,0"
+       id="guide4227" />
   </sodipodi:namedview>
   <metadata
      id="metadata4364">
@@ -124,7 +132,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -134,9 +142,9 @@
      inkscape:groupmode="layer"
      transform="translate(-3,-29)">
     <path
-       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:5;marker:none;enable-background:accumulate"
-       d="m 8,31 a 1,1 0 0 0 -1,1 1,1 0 0 0 1,1 1,1 0 0 0 1,-1 1,1 0 0 0 -1,-1 z m 5,0 -1.9375,1.5625 2.59375,3.21875 -2.4375,2.4375 L 13,40 17,36 13,31 Z M 6.5,35 A 1.5,1.5 0 0 0 5,36.5 1.5,1.5 0 0 0 6.5,38 1.5,1.5 0 0 0 8,36.5 1.5,1.5 0 0 0 6.5,35 Z m 3,5 A 1.5,1.5 0 0 0 8,41.5 1.5,1.5 0 0 0 9.5,43 1.5,1.5 0 0 0 11,41.5 1.5,1.5 0 0 0 9.5,40 Z"
-       id="path2994"
-       inkscape:connector-curvature="0" />
+       style="fill:#1a1a1a;fill-opacity:1;fill-rule:nonzero;stroke:#00ff00;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 5 1 L 5 3 L 3 3 L 2 3 L 2 4 L 2 5 L 2 6 L 3 6 L 3 14 L 3 15 L 4 15 L 13 15 L 13 14 L 13 6 L 14 6 L 14 5 L 14 3 L 11 3 L 11 1 L 10 1 L 6 1 L 5 1 z M 6 2 L 10 2 L 10 3 L 6 3 L 6 2 z M 3 4 L 13 4 L 13 5 L 4 5 L 3 5 L 3 4 z M 4 6 L 12 6 L 12 14 L 4 14 L 4 6 z M 5 7 L 5 13 L 6 13 L 6 7 L 5 7 z M 7.5 7 L 7.5 13 L 8.5 13 L 8.5 7 L 7.5 7 z M 10 7 L 10 13 L 11 13 L 11 7 L 10 7 z "
+       transform="translate(3,29)"
+       id="rect4172" />
   </g>
 </svg>

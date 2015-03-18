@@ -41,7 +41,7 @@ MaxSize=96
 [devices/scalable]
 Size=256
 Context=Devices
-Type=Scalable
+Type=Fixed
 MinSize=16
 MaxSize=96
 

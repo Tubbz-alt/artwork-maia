@@ -30,27 +30,6 @@
          id="stop4664" />
     </linearGradient>
     <linearGradient
-       inkscape:collect="always"
-       id="linearGradient4276">
-      <stop
-         style="stop-color:#afb8be;stop-opacity:1"
-         offset="0"
-         id="stop4278" />
-      <stop
-         style="stop-color:#e0e5e7;stop-opacity:1"
-         offset="1"
-         id="stop4280" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4276"
-       id="linearGradient4274"
-       x1="400.57144"
-       y1="539.79797"
-       x2="400.57144"
-       y2="536.79797"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
        id="linearGradient4271"
        inkscape:collect="always">
       <stop
@@ -324,9 +303,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="8.734375"
-     inkscape:cx="16.604033"
-     inkscape:cy="15.48869"
+     inkscape:zoom="12.352272"
+     inkscape:cx="16.200127"
+     inkscape:cy="13.065795"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -474,7 +453,7 @@
        id="rect4282"
        style="fill:#59abe3;fill-opacity:1;stroke:none" />
     <rect
-       style="fill:url(#linearGradient4274);fill-opacity:1;stroke:none"
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
        id="rect4266"
        width="2.9999278"
        height="2.9999735"

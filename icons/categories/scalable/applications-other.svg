@@ -38,8 +38,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="11.540684"
-     inkscape:cx="17.87427"
-     inkscape:cy="21.967184"
+     inkscape:cx="-1.5786498"
+     inkscape:cy="21.793884"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -115,14 +115,6 @@
        y="284.58221"
        ry="0" />
     <rect
-       ry="0.56444448"
-       y="287.12222"
-       x="3.3866684"
-       height="1.128889"
-       width="1.128889"
-       id="rect4154"
-       style="fill:#f9f9f9;fill-opacity:0.20807454;fill-rule:evenodd;stroke:none" />
-    <rect
        ry="0"
        y="-11.006669"
        x="-294.46002"
@@ -132,28 +124,12 @@
        style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none"
        transform="matrix(0,-1,-1,0,0,0)" />
     <rect
-       style="fill:#f9f9f9;fill-opacity:0.20807454;fill-rule:evenodd;stroke:none"
-       id="rect4156"
-       width="5.0800009"
-       height="1.1288757"
-       x="5.0800023"
-       y="287.12222"
-       ry="0" />
-    <rect
        style="fill:#ecf0f1;fill-opacity:1;fill-rule:evenodd;stroke:none"
        id="rect3363"
        width="1.128889"
        height="1.128889"
        x="3.3866684"
        y="286.84003"
-       ry="0.56444448" />
-    <rect
-       style="fill:#f9f9f9;fill-opacity:0.20807454;fill-rule:evenodd;stroke:none"
-       id="rect4158"
-       width="1.128889"
-       height="1.128889"
-       x="3.3866684"
-       y="289.94443"
        ry="0.56444448" />
     <rect
        ry="0"
@@ -164,14 +140,6 @@
        id="rect3375"
        style="fill:#ecf0f1;fill-opacity:1;fill-rule:evenodd;stroke:none" />
     <rect
-       ry="0"
-       y="289.94446"
-       x="5.0800023"
-       height="1.1288757"
-       width="5.0800009"
-       id="rect4160"
-       style="fill:#f9f9f9;fill-opacity:0.20807454;fill-rule:evenodd;stroke:none" />
-    <rect
        ry="0.56444448"
        y="289.66223"
        x="3.3866684"
@@ -180,14 +148,6 @@
        id="rect3383"
        style="fill:#ecf0f1;fill-opacity:1;fill-rule:evenodd;stroke:none" />
     <rect
-       style="fill:#f9f9f9;fill-opacity:0.20807454;fill-rule:evenodd;stroke:none"
-       id="rect4162"
-       width="1.128889"
-       height="1.128889"
-       x="3.3866684"
-       y="292.76666"
-       ry="0.56444448" />
-    <rect
        style="fill:#ecf0f1;fill-opacity:1;fill-rule:evenodd;stroke:none"
        id="rect3385"
        width="5.0800009"
@@ -195,14 +155,6 @@
        x="5.0800023"
        y="289.66226"
        ry="0" />
-    <rect
-       ry="0"
-       y="292.76666"
-       x="5.0800023"
-       height="1.1288757"
-       width="5.0800009"
-       id="rect4164"
-       style="fill:#f9f9f9;fill-opacity:0.20807454;fill-rule:evenodd;stroke:none" />
     <rect
        ry="0.56444448"
        y="292.48447"

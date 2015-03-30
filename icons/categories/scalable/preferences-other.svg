@@ -15,7 +15,7 @@
    height="96"
    id="svg2408"
    style="display:inline"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="preferences-other.svg">
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -26,15 +26,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1680"
-     inkscape:window-height="991"
+     inkscape:window-width="1366"
+     inkscape:window-height="695"
      id="namedview146"
      showgrid="false"
-     inkscape:zoom="7.3027803"
-     inkscape:cx="3.759341"
-     inkscape:cy="39.92588"
-     inkscape:window-x="0"
-     inkscape:window-y="-3"
+     inkscape:zoom="3.6513902"
+     inkscape:cx="4.3791451"
+     inkscape:cy="41.537081"
+     inkscape:window-x="-4"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2408" />
   <defs
@@ -518,7 +518,7 @@
        y="-90"
        transform="scale(1,-1)"
        id="rect2419"
-       style="fill:#558ac2;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+       style="fill:#34495e;fill-opacity:1;fill-rule:nonzero;stroke:none" />
   </g>
   <g
      id="layer7"

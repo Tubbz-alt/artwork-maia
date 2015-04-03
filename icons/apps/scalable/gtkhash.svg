@@ -9,12 +9,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="96"
-   height="96"
+   width="128"
+   height="128"
    id="svg2"
    version="1.1"
    inkscape:version="0.48.5 r10040"
-   viewBox="0 0 27.093334 27.093334"
+   viewBox="0 0 36.124445 36.124445"
    sodipodi:docname="gtkhash.svg">
   <defs
      id="defs4" />
@@ -25,20 +25,21 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.7277566"
-     inkscape:cx="76.422518"
-     inkscape:cy="27.227308"
+     inkscape:zoom="1.4319391"
+     inkscape:cx="120.05365"
+     inkscape:cy="-34.679999"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="px"
      borderlayer="true"
      inkscape:showpageshadow="false"
-     inkscape:window-width="1680"
-     inkscape:window-height="991"
-     inkscape:window-x="-2"
-     inkscape:window-y="-3"
-     inkscape:window-maximized="1">
+     inkscape:window-width="1366"
+     inkscape:window-height="744"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     showguides="false">
     <sodipodi:guide
        position="8.9999996,38.999975"
        orientation="30.000028,0"
@@ -72,17 +73,10 @@
      inkscape:label="Capa 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-269.90667)">
-    <rect
-       style="color:#000000;fill:#34495e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.20000000000000001;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       id="rect2994"
-       width="23.706694"
-       height="23.706694"
-       x="1.6933202"
-       y="271.59998" />
+     transform="translate(0,-260.87556)">
     <g
        id="g4078"
-       transform="matrix(1.4999992,0,0,1.4999992,3.3866721,-151.88642)">
+       transform="matrix(2.8855549,0,0,2.8855549,-1.5641369,-558.44564)">
       <rect
          style="fill:#34495e;fill-opacity:1;fill-rule:evenodd;stroke:none"
          id="rect3282"

@@ -9,11 +9,11 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="96"
-   height="96"
+   width="38.4pt"
+   height="38.4pt"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.48.4 r9939"
    sodipodi:docname="ghex.svg">
   <metadata
      id="metadata20">
@@ -36,20 +36,20 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1680"
-     inkscape:window-height="991"
+     inkscape:window-width="1440"
+     inkscape:window-height="836"
      id="namedview18"
      showgrid="false"
      inkscape:showpageshadow="false"
      borderlayer="true"
-     inkscape:zoom="2.8284272"
-     inkscape:cx="-69.086289"
-     inkscape:cy="8.8997669"
-     inkscape:window-x="-2"
-     inkscape:window-y="-3"
+     inkscape:zoom="5.6568543"
+     inkscape:cx="-31.258765"
+     inkscape:cy="1.809272"
+     inkscape:window-x="0"
+     inkscape:window-y="26"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2"
-     showguides="false"
+     showguides="true"
      inkscape:guide-bbox="true">
     <sodipodi:guide
        position="9.5367432e-07,48.000001"
@@ -95,17 +95,18 @@
   <defs
      id="defs4" />
   <rect
-     style="color:#000000;fill:#2c3e50;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-     id="rect2996"
-     width="84.000092"
-     height="84.000092"
-     x="5.9999542"
-     y="5.9999542" />
+     style="fill:#2c3e50;fill-opacity:1;stroke:none"
+     id="rect4106"
+     width="40"
+     height="40"
+     x="4.000001"
+     y="4.000001"
+     ry="20" />
   <g
      id="g3800"
-     transform="matrix(1.4350937,-0.48335175,0.48512143,1.440348,3.0615148,23.128256)"
-     inkscape:transform-center-x="-1.2896586"
-     inkscape:transform-center-y="1.7195461">
+     transform="matrix(0.88520309,-0.29814392,0.2992355,0.88844404,-2.9692245,9.4709636)"
+     inkscape:transform-center-x="-0.79549513"
+     inkscape:transform-center-y="1.0606602">
     <path
        id="path3766"
        d="m 23.579276,18.051724 -8.514483,0 -4.257241,-7.373758 4.257242,-7.3737582 8.514482,4e-7 4.257241,7.3737588 z"

@@ -9,11 +9,11 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="96"
-   height="96"
+   width="38.4pt"
+   height="38.4pt"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.48.4 r9939"
    sodipodi:docname="wuala.svg">
   <metadata
      id="metadata16">
@@ -36,20 +36,19 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1680"
-     inkscape:window-height="991"
+     inkscape:window-width="1366"
+     inkscape:window-height="744"
      id="namedview14"
      showgrid="false"
      inkscape:showpageshadow="false"
      borderlayer="true"
      inkscape:zoom="6.9532166"
-     inkscape:cx="18.143178"
-     inkscape:cy="44.935316"
-     inkscape:window-x="-2"
-     inkscape:window-y="-3"
+     inkscape:cx="36.695743"
+     inkscape:cy="16.17165"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg2"
-     showguides="false">
+     inkscape:current-layer="svg2">
     <sodipodi:guide
        position="9.5367432e-07,48.000001"
        orientation="47.999999,0"
@@ -102,16 +101,16 @@
   <defs
      id="defs4" />
   <rect
-     style="color:#000000;fill:#e74c3c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.50000000000000000;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-     id="rect2995"
-     width="84.000092"
-     height="84.000092"
-     x="5.9999542"
-     y="5.9999542"
-     ry="0" />
+     style="fill:#e74c3c;fill-opacity:1;stroke:none"
+     id="rect4090"
+     width="43.739277"
+     height="43.739277"
+     x="2.2741809"
+     y="2.1303627"
+     ry="21.869638" />
   <path
      style="fill:#ffffff;fill-opacity:1;stroke:none"
-     d="m 26.364172,35.39512 6.632737,0 7.351391,14.211369 7.682533,-15.128882 7.947451,15.252461 7.086474,-14.334948 6.57107,0 -13.510677,26.127273 -8.03148,-16.777381 -8.043192,16.777381 z"
+     d="m 11.022036,16.902083 4.022649,0 4.458501,8.618967 4.659333,-9.175424 4.820002,9.250373 4.297833,-8.693916 3.985248,0 -8.194009,15.845772 -4.870964,-10.175212 -4.878067,10.175212 z"
      id="rect3782"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="ccccccccccc" />

@@ -9,12 +9,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="96"
-   height="96"
+   width="48"
+   height="48"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
-   viewBox="0 0 27.093332 27.093336"
+   inkscape:version="0.48.4 r9939"
+   viewBox="0 0 13.546666 13.546668"
    sodipodi:docname="eric.svg">
   <defs
      id="defs4" />
@@ -26,8 +26,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="4.4501164"
-     inkscape:cx="-43.058287"
-     inkscape:cy="22.468654"
+     inkscape:cx="-14.070281"
+     inkscape:cy="-4.4969332"
      inkscape:document-units="px"
      inkscape:current-layer="layer1-2"
      showgrid="false"
@@ -39,10 +39,10 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      showguides="true"
-     inkscape:window-width="1680"
-     inkscape:window-height="991"
-     inkscape:window-x="-2"
-     inkscape:window-y="-3"
+     inkscape:window-width="1366"
+     inkscape:window-height="744"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
      inkscape:window-maximized="1">
     <sodipodi:guide
        position="-6.6748425e-06,47.999999"
@@ -141,21 +141,23 @@
      inkscape:label="Capa 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(38.119153,-384.29827)">
+     transform="translate(38.119153,-397.84494)">
     <g
        id="layer1-2"
        transform="matrix(0.28222225,0,0,0.28222225,-61.793671,386.44873)">
-      <rect
-         style="color:#000000;fill:#34495f;fill-opacity:0.94117647;fill-rule:nonzero;stroke:none;stroke-width:0.2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         id="rect3007"
-         width="84.000092"
-         height="84.000092"
-         x="89.886024"
-         y="-1.6197854"
-         ry="0" />
+      <path
+         sodipodi:type="arc"
+         style="fill:#34495f;fill-opacity:0.94117647;stroke:none"
+         id="path3773"
+         sodipodi:cx="-26.375414"
+         sodipodi:cy="27.499989"
+         sodipodi:rx="12.499974"
+         sodipodi:ry="12.499974"
+         d="m -13.87544,27.499989 a 12.499974,12.499974 0 1 1 -24.999948,0 12.499974,12.499974 0 1 1 24.999948,0 z"
+         transform="matrix(1.725843,0,0,1.725843,152.73176,16.694892)" />
       <g
          id="g3775"
-         transform="matrix(1.8745523,0,0,1.8745523,-68.47746,-80.120422)">
+         transform="matrix(1.0786496,0,0,1.0786496,-8.0806877,-5.1826118)">
         <path
            style="fill:#1abc9f;fill-opacity:0.94117647"
            inkscape:connector-curvature="0"

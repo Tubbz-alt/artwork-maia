@@ -9,13 +9,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="64"
-   height="64"
-   viewBox="0 0 64 64.000003"
+   width="128"
+   height="128"
+   viewBox="0 0 128 128.00001"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91+devel r"
-   sodipodi:docname="preferences-deesktop-cryptography.svg">
+   inkscape:version="0.91 r"
+   sodipodi:docname="preferences-desktop-cryptography.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -25,20 +25,21 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="11.313708"
-     inkscape:cx="39.738691"
-     inkscape:cy="32.421041"
+     inkscape:zoom="2.828427"
+     inkscape:cx="126.12834"
+     inkscape:cy="42.00283"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
-     showgrid="true"
+     showgrid="false"
      units="px"
      inkscape:showpageshadow="false"
      borderlayer="true"
      inkscape:window-width="1366"
-     inkscape:window-height="670"
-     inkscape:window-x="-4"
-     inkscape:window-y="29"
-     inkscape:window-maximized="1">
+     inkscape:window-height="744"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     showguides="false">
     <inkscape:grid
        type="xygrid"
        id="grid4136"
@@ -100,7 +101,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -108,48 +109,48 @@
      inkscape:label="Capa 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-1058.5196)">
+     transform="translate(0,-994.5196)">
     <ellipse
        style="opacity:1;fill:#a4aabe;fill-opacity:1;stroke:none;stroke-width:0.9819805;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.29943501"
        id="path4157"
-       cx="32"
-       cy="1090.5197"
-       rx="27.000006"
-       ry="26.999931" />
+       cx="64.173447"
+       cy="1058.3463"
+       rx="56.698582"
+       ry="56.698425" />
     <ellipse
        style="opacity:1;fill:#747a8c;fill-opacity:1;stroke:none;stroke-width:0.97467941;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.29943501"
        id="path4166"
-       cx="32"
-       cy="1090.5197"
-       rx="19"
-       ry="18.99996" />
+       cx="64.173447"
+       cy="1058.3463"
+       rx="39.898994"
+       ry="39.898907" />
     <ellipse
-       ry="13.999969"
-       rx="14"
-       cy="1090.5197"
-       cx="32"
+       ry="29.399191"
+       rx="29.399258"
+       cy="1058.3463"
+       cx="64.173447"
        id="ellipse4168"
        style="opacity:1;fill:#434e5f;fill-opacity:1;stroke:none;stroke-width:0.71818483;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.29943501" />
     <ellipse
        style="opacity:1;fill:#a3a7bb;fill-opacity:1;stroke:none;stroke-width:0.66688591;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.29943501"
        id="ellipse4170"
-       cx="32"
-       cy="1090.5197"
-       rx="13"
-       ry="12.99997" />
+       cx="64.173447"
+       cy="1058.3463"
+       rx="27.299309"
+       ry="27.299248" />
     <ellipse
-       ry="5.9999862"
-       rx="6"
-       cy="1090.5197"
-       cx="32"
+       ry="12.599652"
+       rx="12.599681"
+       cy="1058.3463"
+       cx="64.173447"
        id="ellipse4172"
        style="opacity:1;fill:#5f6276;fill-opacity:1;stroke:none;stroke-width:0.3077935;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.29943501" />
     <rect
        style="opacity:1;fill:#000c21;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.29943501"
        id="rect4174"
-       width="4"
-       height="16"
-       x="30"
-       y="1082.5197" />
+       width="8.3997879"
+       height="33.599152"
+       x="59.973553"
+       y="1041.5468" />
   </g>
 </svg>

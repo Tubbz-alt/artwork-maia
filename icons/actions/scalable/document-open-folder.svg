@@ -9,14 +9,48 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="48"
-   height="48"
-   id="svg2"
+   width="16"
+   height="16"
+   id="svg4359"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="document-open.svg">
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="user-.svg">
   <defs
-     id="defs4" />
+     id="defs4361">
+    <linearGradient
+       id="linearGradient4103">
+      <stop
+         style="stop-color:#bdecfb;stop-opacity:1"
+         offset="0"
+         id="stop4105" />
+      <stop
+         style="stop-color:#f5feff;stop-opacity:1"
+         offset="1"
+         id="stop4107" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4314">
+      <stop
+         style="stop-color:#ff4b00;stop-opacity:1"
+         offset="0"
+         id="stop4316" />
+      <stop
+         style="stop-color:#ff5500;stop-opacity:1"
+         offset="1"
+         id="stop4318" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5020-1">
+      <stop
+         id="stop5022-6"
+         offset="0"
+         style="stop-color:#0da8db;stop-opacity:1" />
+      <stop
+         id="stop5024-0"
+         offset="1"
+         style="stop-color:#1fe1fb;stop-opacity:1" />
+    </linearGradient>
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -24,39 +58,66 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="8.0343727"
-     inkscape:cx="18.693153"
-     inkscape:cy="29.685885"
-     inkscape:document-units="px"
+     inkscape:zoom="11.765925"
+     inkscape:cx="-11.462298"
+     inkscape:cy="3.5185413"
      inkscape:current-layer="layer1"
-     showgrid="false"
-     inkscape:window-width="1680"
-     inkscape:window-height="991"
-     inkscape:window-x="0"
-     inkscape:window-y="-3"
-     inkscape:window-maximized="1">
+     showgrid="true"
+     inkscape:grid-bbox="true"
+     inkscape:document-units="px"
+     inkscape:window-width="1366"
+     inkscape:window-height="697"
+     inkscape:window-x="-4"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:showpageshadow="false"
+     borderlayer="true"
+     showguides="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:object-nodes="true">
     <inkscape:grid
        type="xygrid"
-       id="grid3004" />
+       id="grid4105"
+       originx="-3px"
+       originy="-3px" />
     <sodipodi:guide
-       position="9,39.000017"
-       orientation="30,0"
-       id="guide3263" />
+       position="0,16"
+       orientation="16,0"
+       id="guide4205" />
     <sodipodi:guide
-       position="9,9.0000174"
-       orientation="0,30"
-       id="guide3265" />
+       position="0,0"
+       orientation="0,16"
+       id="guide4207" />
     <sodipodi:guide
-       position="39,9.0000174"
-       orientation="-30,0"
-       id="guide3267" />
+       position="16,10"
+       orientation="-16,0"
+       id="guide4209" />
     <sodipodi:guide
-       position="39,39.000017"
-       orientation="0,-30"
-       id="guide3269" />
+       position="16,16"
+       orientation="0,-16"
+       id="guide4211" />
+    <sodipodi:guide
+       position="1,7"
+       orientation="12,0"
+       id="guide4213" />
+    <sodipodi:guide
+       position="15,9"
+       orientation="-12,0"
+       id="guide4217" />
+    <sodipodi:guide
+       position="13.999992,15"
+       orientation="0,-12"
+       id="guide4219" />
+    <sodipodi:guide
+       position="2.0000086,1"
+       orientation="0,11.999984"
+       id="guide4225" />
   </sodipodi:namedview>
   <metadata
-     id="metadata7">
+     id="metadata4364">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -68,14 +129,14 @@
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="Capa 1"
-     inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-1004.3622)">
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     transform="translate(-3,-29)">
     <path
-       style="fill:#1a1a1a;fill-opacity:1;fill-rule:evenodd;stroke:none"
-       d="M 9 9 L 9 13 L 9 39 L 39 39 L 39 13 L 20 13 L 20 9 L 9 9 z M 13 17 L 35 17 L 35 35 L 13 35 L 13 17 z "
-       transform="translate(0,1004.3622)"
-       id="rect3263" />
+       style="fill:#1a1a1a;fill-opacity:1;fill-rule:nonzero;stroke:#00ff00;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 2 2 L 2 3 L 2 4 L 1 4 L 1 5 L 1 13 L 1 14 L 2 14 L 15 14 L 15 13 L 15 4 L 9 4 L 9 2 L 8 2 L 3 2 L 2 2 z M 3 3 L 8 3 L 8 4 L 3 4 L 3 3 z M 2 5 L 14 5 L 14 13 L 2 13 L 2 5 z "
+       transform="translate(3,29)"
+       id="rect4165" />
   </g>
 </svg>

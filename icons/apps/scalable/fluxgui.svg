@@ -9,11 +9,11 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="96"
-   height="96"
+   width="48"
+   height="48"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.49 r12742"
    sodipodi:docname="fluxgui.svg">
   <defs
      id="defs4" />
@@ -24,27 +24,22 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="4.0312503"
-     inkscape:cx="32.469347"
-     inkscape:cy="39.925071"
+     inkscape:zoom="8.0625005"
+     inkscape:cx="19.519929"
+     inkscape:cy="33.185869"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1680"
-     inkscape:window-height="991"
+     inkscape:window-width="1366"
+     inkscape:window-height="718"
      inkscape:window-x="-2"
-     inkscape:window-y="-3"
+     inkscape:window-y="23"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false"
-     borderlayer="true"
-     showguides="false">
+     borderlayer="true">
     <inkscape:grid
        type="xygrid"
-       id="grid3850"
-       empspacing="5"
-       visible="true"
-       enabled="true"
-       snapvisiblegridlinesonly="true" />
+       id="grid3850" />
     <sodipodi:guide
        position="4,44.000017"
        orientation="40,0"
@@ -102,7 +97,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -110,39 +105,26 @@
      inkscape:label="Capa 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-956.3622)">
-    <rect
-       style="color:#000000;fill:#869fcb;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.20000000000000001;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       id="rect2999"
-       width="84.000092"
-       height="84.000092"
-       x="5.9999542"
-       y="962.36218" />
+     transform="translate(0,-1004.3622)">
     <g
-       id="g3016"
-       transform="matrix(1.3558072,0,0,1.352701,-18.483426,-357.15311)">
+       id="g4075">
       <path
          id="rect2991-1"
-         d="m 48,984.3622 a 20,20 0 0 0 -20,20 20,20 0 0 0 20,20 20,20 0 0 0 20,-20 20,20 0 0 0 -20,-20 z"
-         style="fill:#ffce7b;fill-opacity:1;stroke:none"
-         inkscape:connector-curvature="0" />
+         transform="translate(0,1004.3622)"
+         d="M 24 4 A 20 20 0 0 0 4 24 A 20 20 0 0 0 24 44 A 20 20 0 0 0 44 24 A 20 20 0 0 0 24 4 z "
+         style="fill:#ffce7b;fill-opacity:1;stroke:none" />
       <circle
-         transform="translate(24,-24)"
-         d="m 42.650013,1031.3622 c 0,5.1086 -4.141366,9.25 -9.25,9.25 -5.108634,0 -9.25,-4.1414 -9.25,-9.25 0,-5.1087 4.141366,-9.25 9.25,-9.25 5.108634,0 9.25,4.1413 9.25,9.25 z"
+         d="m 42.650013,1031.3622 a 9.25,9.25 0 0 1 -9.25,9.25 9.25,9.25 0 0 1 -9.25,-9.25 9.25,9.25 0 0 1 9.25,-9.25 9.25,9.25 0 0 1 9.25,9.25 z"
          id="path864"
          style="fill:#ff9f30;fill-opacity:1;fill-rule:nonzero;stroke:none"
          cx="33.400013"
          cy="1031.3622"
-         r="9.25"
-         sodipodi:cx="33.400013"
-         sodipodi:cy="1031.3622"
-         sodipodi:rx="9.25"
-         sodipodi:ry="9.25" />
+         r="9.25" />
+      <path
+         id="rect857"
+         transform="translate(0,1004.3622)"
+         d="M 17.25 19.96875 C 11.810118 19.96875 7.452767 22.213373 4.0449219 25.232422 A 20 20 0 0 0 24 44 A 20 20 0 0 0 42.0625 32.53125 C 32.059917 23.311365 23.857678 19.96875 17.25 19.96875 z "
+         style="fill:#869fcb;fill-opacity:1;stroke:none" />
     </g>
-    <path
-       inkscape:connector-curvature="0"
-       style="fill:#869fcb;fill-opacity:1;stroke:none"
-       d="m 40.762004,997.73206 c -9.352859,0 -16.844506,4.00714 -22.703657,9.39674 a 34.386251,35.704779 0 0 0 34.309016,33.5047 34.386251,35.704779 0 0 0 31.055085,-20.4744 C 66.22488,1003.6993 52.122668,997.73206 40.762004,997.73206 z"
-       id="rect857" />
   </g>
 </svg>

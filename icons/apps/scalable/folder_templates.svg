@@ -14,8 +14,8 @@
    height="512"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
-   sodipodi:docname="folder-templates.svg"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="folder_templates.svg"
    inkscape:export-filename="/home/alecive/Scrivania/firefoxTest1.png"
    inkscape:export-xdpi="100"
    inkscape:export-ydpi="100">
@@ -26,16 +26,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.86080029"
-     inkscape:cx="345.82448"
-     inkscape:cy="231.11546"
+     inkscape:zoom="0.43040015"
+     inkscape:cx="-493.91883"
+     inkscape:cy="266.07489"
      inkscape:document-units="px"
      inkscape:current-layer="svg2"
      showgrid="false"
      inkscape:window-width="1366"
-     inkscape:window-height="744"
-     inkscape:window-x="0"
-     inkscape:window-y="24"
+     inkscape:window-height="695"
+     inkscape:window-x="-4"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:object-paths="false"
      inkscape:snap-intersection-paths="false"
@@ -927,18 +927,18 @@
        height="44.56144"
        width="183.68008"
        id="rect2984"
-       style="fill:#558db5;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0;stroke-dasharray:none" />
+       style="fill:#178c84;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0;stroke-dasharray:none" />
     <rect
        y="115.20763"
        x="8.6949148"
        height="326.0593"
        width="493.43646"
        id="rect2982"
-       style="fill:#94c2e4;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+       style="fill:#1ba39c;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
   </g>
   <path
      inkscape:connector-curvature="0"
      id="path143"
      d="m 217.57903,196.71856 0,9.55081 59.25067,0 33.79266,33.79267 0,56.89945 9.55081,0 0,-58.87771 0,-1.97827 -39.38694,-39.38695 -63.2072,0 z m -16.75041,15.77749 0,19.0854 9.55081,0 0,-19.0854 -9.55081,0 z m 0,38.187 0,19.10162 9.55081,0 0,-19.10162 -9.55081,0 z m 0,39.84097 0,15.98828 -15.97205,0 0,9.53459 15.97205,0 0,15.98828 9.53459,0 0,-15.98828 15.98828,0 0,-9.53459 -15.98828,0 0,-15.98828 -9.53459,0 z m 46.27845,15.98828 0,9.55081 19.10161,0 0,-9.55081 -19.10161,0 z m 38.20323,0 0,9.55081 19.08539,0 0,-9.55081 -19.08539,0 z"
-     style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#558db5;fill-opacity:1;stroke:#558db5;stroke-width:8.30000019;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
+     style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#157f78;fill-opacity:1;stroke:#157f78;stroke-width:8.30000019;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
 </svg>

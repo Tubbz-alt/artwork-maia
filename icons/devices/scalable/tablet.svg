@@ -9,12 +9,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="38.4pt"
-   height="38.4pt"
+   width="512"
+   height="512"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="tablet.svg">
+   inkscape:version="0.91+devel r"
+   sodipodi:docname="tablet.svg"
+   viewBox="0 0 511.99999 511.99999">
   <metadata
      id="metadata15">
     <rdf:RDF>
@@ -23,6 +24,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -35,43 +37,60 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="709"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
      id="namedview13"
+     inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="7.2440828"
-     inkscape:cx="24.341434"
-     inkscape:cy="19.997549"
+     inkscape:zoom="0.47503135"
+     inkscape:cx="-314.87558"
+     inkscape:cy="239.62789"
      inkscape:window-x="0"
-     inkscape:window-y="-3"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg2" />
+     inkscape:current-layer="svg2"
+     units="px" />
   <defs
      id="defs4" />
-  <rect
-     style="opacity:1;fill:#1a1a1a;fill-opacity:1;fill-rule:evenodd;stroke:none"
-     id="rect2988"
-     width="34.096794"
-     height="45.55442"
-     x="6.6260986"
-     y="1.0651417"
-     rx="3.2294827"
-     ry="3.0987344" />
-  <path
-     style="fill:#2980b9;fill-rule:evenodd;stroke:#003bc3;stroke-width:0;stroke-linecap:square;stroke-linejoin:bevel"
-     inkscape:connector-curvature="0"
-     d="m 9.94979,5.54472 0,35.5011 27.8338,-0.0985 -0.0772,-35.3039858 z"
-     id="shape1" />
-  <circle
-     style="fill:#a8b2b8;fill-rule:evenodd;stroke:#003bc3;stroke-width:0;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:2.01260185"
-     sodipodi:ry="1.7716565"
-     sodipodi:rx="1.7716565"
-     sodipodi:cy="1.7716565"
-     sodipodi:cx="1.7716565"
-     stroke-miterlimit="2.01260191180"
-     cy="1.7716565"
-     cx="1.7716565"
-     r="1.7716565"
-     transform="translate(21.8734,41.9848)"
-     id="circle11" />
+  <g
+     id="layer1"
+     transform="matrix(9.3199439,0,0,9.3199439,24.884262,20.240823)">
+    <rect
+       id="shape0"
+       transform="translate(6.68354,1.15443)"
+       stroke-miterlimit="2.01260185242"
+       width="27.171652pt"
+       height="36.212658pt"
+       rx="2.4789875pt"
+       ry="2.4789875pt"
+       x="0"
+       y="0"
+       style="fill:#34495e;fill-rule:evenodd;stroke:#003bc3;stroke-width:0;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:2.01260185" />
+    <path
+       id="shape1"
+       transform="translate(9.94979,5.54472)"
+       d="M 0,0 0,35.5011 27.8338,35.4026 27.7566,0.0986142 Z"
+       inkscape:connector-curvature="0"
+       style="fill:#2980b9;fill-rule:evenodd;stroke:#003bc3;stroke-width:0;stroke-linecap:square;stroke-linejoin:bevel" />
+    <path
+       id="shape11"
+       transform="translate(9.94479,37.7757)"
+       d="M 0,0 0,3.2779 27.8459,3.21169 27.8641,0.0662202 Z"
+       inkscape:connector-curvature="0"
+       style="fill:#001424;fill-rule:evenodd;stroke:#003bc3;stroke-width:0;stroke-linecap:square;stroke-linejoin:bevel" />
+    <path
+       id="shape12"
+       transform="translate(9.9369,5.16456)"
+       d="M 0,0 0,2.35713 27.7709,2.33896 27.7892,0.0856619 Z"
+       inkscape:connector-curvature="0"
+       style="fill:#001424;fill-rule:evenodd;stroke:#003bc3;stroke-width:0;stroke-linecap:square;stroke-linejoin:bevel" />
+    <circle
+       id="circle11"
+       transform="translate(21.8734,41.9848)"
+       r="1.4173253pt"
+       cx="1.4173253pt"
+       cy="1.4173253pt"
+       stroke-miterlimit="2.01260191180"
+       style="fill:#a8b2b8;fill-rule:evenodd;stroke:#003bc3;stroke-width:0;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:2.01260185" />
+  </g>
 </svg>

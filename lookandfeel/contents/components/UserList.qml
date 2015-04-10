@@ -47,7 +47,7 @@ ListView {
                     iconSource = model.icon
                 }
             } else {
-                iconSource = "user-identity"
+                iconSource = "artwork/default.face.icon"
             }
         }
         width: view.userItemWidth

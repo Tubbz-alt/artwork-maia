@@ -74,7 +74,7 @@ Size=512
 Context=Places
 Type=Scalable
 MinSize=32
-MaxSize=256
+MaxSize=512
 
 [places/user-folders-small]
 Size=16

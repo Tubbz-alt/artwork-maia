@@ -1,6 +1,6 @@
 [Icon Theme]
 Name=Maia
-Comment=Green colors icons for plasma desktop
+Comment=Green colors icons for XFCE desktop
 Inherits=Maia
 
 Example=x-directory-normal

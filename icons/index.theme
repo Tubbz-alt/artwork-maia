@@ -57,48 +57,11 @@ Size=16
 Context=Devices
 Type=Fixed
 
-#[devices/symbolic]
-#Size=16
-#Context=Devices
-#Type=Fixed
-
 [emblems/scalable]
 Size=24
 Context=Emblems
 Type=Fixed
 
-#[emblems/symbolic]
-#Size=16
-#Context=Emblems
-#Type=Fixed
-
-#The different MIMEtype sizes are for Google Chrome and Chromium's Download Tab
-#(when you download something it recognizes the file type and shows the
-#corresponding icon, for example you download a DEB file you get a DEB MIME icon).
-#Other software works fine with SVG files.
-#
-#--------------------------------Not yet in Flattr--------------------------------
-#
-#[mimetypes/16]
-#Size=16
-#Context=MimeTypes
-#Type=Fixed
-#
-#[mimetypes/22]
-#Size=22
-#Context=MimeTypes
-#Type=Fixed
-#
-#[mimetypes/24]
-#Size=24
-#Context=MimeTypes
-#Type=Fixed
-#
-#[mimetypes/32]
-#Size=32
-#Context=MimeTypes
-#Type=Fixed
-#
 [mimetypes/scalable]
 Size=512
 Context=MimeTypes
@@ -119,19 +82,9 @@ Context=Places
 Type=Scalable
 Type=Fixed
 
-#[places/symbolic]
-#Size=16
-#Context=Places
-#Type=Fixed
-
 [status/scalable]
 Size=96
 Context=Status
 Type=Scalable
 MinSize=16
 MaxSize=96
-
-#[status/symbolic]
-#Size=16
-#Context=Status
-#Type=Scalable

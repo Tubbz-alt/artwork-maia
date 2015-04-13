@@ -5,19 +5,21 @@ Inherits=Maia
 
 Example=x-directory-normal
 
-Directories=actions/scalable,actions/symbolic,apps/scalable,apps/small,categories/scalable,categories/small,devices/scalable,devices/small,emblems/scalable,places/user-folders,places/user-folders-small,status/scalable,mimetypes/scalable
+Directories=actions/scalable,actions/symbolic,apps/scalable,apps/small,categories/scalable,categories/small,devices/scalable,devices/small,emblems/scalable,places/scalable,places/symbolic,status/scalable,mimetypes/scalable
 
 [actions/scalable]
-Size=96
+Size=256
 Context=Actions
 Type=Scalable
 MinSize=16
-MaxSize=96
+MaxSize=256
 
 [actions/symbolic]
 Size=16
 Context=Actions
 Type=Scalable
+MinSize=16
+MaxSize=512
 
 [apps/scalable]
 Size=512
@@ -29,14 +31,16 @@ MaxSize=512
 [apps/small]
 Size=16
 Context=Applications
-Type=Fixed
+MinSize=16
+MaxSize=512
+Type=Scalable
 
 [categories/scalable]
 Size=96
 Context=Categories
 Type=Scalable
 MinSize=16
-MaxSize=96
+MaxSize=128
 
 [categories/small]
 Size=16
@@ -50,12 +54,14 @@ Size=256
 Context=Devices
 Type=Fixed
 MinSize=16
-MaxSize=96
+MaxSize=256
 
 [devices/small]
-Size=16
 Context=Devices
-Type=Fixed
+Size=16
+MinSize=16
+MaxSize=512
+Type=Scalable
 
 [emblems/scalable]
 Size=24
@@ -88,4 +94,4 @@ Size=96
 Context=Status
 Type=Scalable
 MinSize=16
-MaxSize=96
+MaxSize=512

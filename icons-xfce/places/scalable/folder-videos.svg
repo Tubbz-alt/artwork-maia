@@ -11,7 +11,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.48.5 r10040"
    width="512"
    height="512"
    sodipodi:docname="folder-videos.svg"
@@ -40,16 +40,16 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="695"
+     inkscape:window-height="713"
      id="namedview4"
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:zoom="0.46003898"
-     inkscape:cx="-120.32176"
+     inkscape:cx="-220.31329"
      inkscape:cy="151.09593"
-     inkscape:window-x="-4"
-     inkscape:window-y="0"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:current-layer="g4671"
      inkscape:document-units="px" />
@@ -88,7 +88,7 @@
                 <path
                    inkscape:connector-curvature="0"
                    style="fill:#ffffff;fill-opacity:1"
-                   d="m 361.68765,-215.56604 c -6.92499,0 -12.5,5.575 -12.5,12.5 l 0,100 c 0,6.925007 5.575,12.500007 12.5,12.500007 l 125,0 c 6.92499,0 12.5,-5.575 12.5,-12.500007 l 0,-25 50,25 0,-100 -50,24.99999 0,-24.99997 c 0,-6.92501 -5.57501,-12.50001 -12.5,-12.50001 l -125.00001,0 z"
+                   d="m 381.17527,-201.64632 c -5.38269,0 -9.71605,4.33336 -9.71605,9.71606 l 0,77.72844 c 0,5.3827 4.33336,9.71606 9.71605,9.71606 l 97.16055,0 c 5.38269,0 9.71605,-4.33336 9.71605,-9.71606 l 0,-19.43211 38.86423,19.43211 0,-77.72844 -38.86423,19.4321 0,-19.43209 c 0,-5.3827 -4.33336,-9.71606 -9.71605,-9.71606 l -97.16056,0 z"
                    id="path3623" />
               </g>
             </g>

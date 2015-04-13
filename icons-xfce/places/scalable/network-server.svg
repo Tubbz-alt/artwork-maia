@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.48.5 r10040"
    width="512"
    height="512"
    sodipodi:docname="network-server.svg"
@@ -25,7 +25,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -74,8 +74,8 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:zoom="0.46003899"
-     inkscape:cx="372.34626"
-     inkscape:cy="234.41381"
+     inkscape:cx="-477.11809"
+     inkscape:cy="151.09593"
      inkscape:window-x="15"
      inkscape:window-y="29"
      inkscape:window-maximized="0"
@@ -93,7 +93,7 @@
      id="rect2982"
      inkscape:connector-curvature="0" />
   <g
-     transform="matrix(5.46875,0,0,5.46875,1043.3146,1479.8032)"
+     transform="matrix(4.1468862,0,0,4.1468862,853.01104,1189.5925)"
      id="g3926-6"
      style="fill:#ffffff;fill-opacity:1">
     <g

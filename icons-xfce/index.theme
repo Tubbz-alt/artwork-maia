@@ -72,7 +72,7 @@ Type=Fixed
 Size=512
 Context=MimeTypes
 Type=Scalable
-MinSize=48
+MinSize=8
 MaxSize=512
 
 [places/scalable]

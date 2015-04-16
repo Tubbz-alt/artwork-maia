@@ -5,7 +5,7 @@ Inherits=Maia
 
 Example=x-directory-normal
 
-Directories=actions/scalable,actions/symbolic,apps/scalable,apps/small,categories/scalable,categories/small,devices/scalable,devices/small,emblems/scalable,places/scalable,places/symbolic,status/scalable,status/16x16,status/22x22,status/24x24,status/32x32,status/48x48,status/64x64,status/128x128,status/256x256,mimetypes/scalable
+Directories=actions/scalable,actions/symbolic,apps/scalable,apps/small,categories/scalable,categories/small,devices/scalable,devices/small,emblems/scalable,emblems/symbolic,places/scalable,places/symbolic,status/scalable,status/16x16,status/22x22,status/24x24,status/32x32,status/48x48,status/64x64,status/128x128,status/256x256,mimetypes/scalable
 
 [actions/scalable]
 Size=256
@@ -63,10 +63,21 @@ MinSize=16
 MaxSize=512
 Type=Scalable
 
+## emblems start
+
 [emblems/scalable]
 Size=24
 Context=Emblems
 Type=Fixed
+
+[emblems/symbolic]
+Size=16
+Context=Places
+Type=Scalable
+MinSize=32
+MaxSize=512
+
+## emblems end
 
 [mimetypes/scalable]
 Size=512
@@ -88,6 +99,8 @@ Context=Places
 Type=Scalable
 MinSize=32
 MaxSize=512
+
+## Status start
 
 [status/scalable]
 Size=16
@@ -135,3 +148,5 @@ Type=Fixed
 Size=256
 Context=Categories
 Type=Fixed
+
+## status end

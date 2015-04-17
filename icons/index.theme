@@ -5,7 +5,7 @@ Inherits=Maia
 
 Example=x-directory-normal
 
-Directories=actions/scalable,apps/scalable,categories/scalable,categories/small,devices/scalable,devices/small,emblems/scalable,places/user-folders,places/user-folders-small,status/scalable,mimetypes/scalable
+Directories=actions/scalable,apps/scalable,categories/scalable,categories/small,devices/scalable,devices/small,emblems/scalable,emblems/small,places/user-folders,places/user-folders-small,status/scalable,mimetypes/scalable
 
 [actions/scalable]
 Size=96
@@ -47,10 +47,19 @@ Size=16
 Context=Devices
 Type=Fixed
 
+## Emblems Start
+
 [emblems/scalable]
-Size=24
+Size=22
 Context=Emblems
 Type=Fixed
+
+[emblems/small]
+Size=8
+Context=Emblems
+Type=Fixed
+
+## Emblems End
 
 [mimetypes/scalable]
 Size=512

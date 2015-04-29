@@ -13,9 +13,9 @@
    height="22"
    id="svg2"
    version="1.1"
-   inkscape:version="0.49 r12742"
+   inkscape:version="0.91 r13725"
    viewBox="0 0 22 22"
-   sodipodi:docname="document-open.svg">
+   sodipodi:docname="document-open-folder.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -25,20 +25,24 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="22.4"
-     inkscape:cx="7.995674"
-     inkscape:cy="10.780389"
+     inkscape:zoom="31.678384"
+     inkscape:cx="10.994664"
+     inkscape:cy="7.4024921"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:showpageshadow="false"
      borderlayer="true"
      inkscape:window-width="1366"
-     inkscape:window-height="718"
-     inkscape:window-x="-2"
-     inkscape:window-y="23"
+     inkscape:window-height="694"
+     inkscape:window-x="-4"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     units="px">
+     units="px"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:object-nodes="true">
     <sodipodi:guide
        position="2,20.000017"
        orientation="18,0"
@@ -93,9 +97,11 @@
      id="layer1"
      transform="translate(0,-1030.3622)">
     <path
-       style="fill:#1a1a1a;fill-opacity:1;stroke:none"
-       d="M 3 3 L 3 4 L 3 19 L 4 19 L 19 19 L 19 18 L 19 5 L 12.007812 5 L 10.007812 3 L 10 3.0078125 L 10 3 L 4 3 L 3 3 z M 9.0078125 8 L 18 8 L 18 18 L 4 18 L 4 10 L 7 10 L 7 9.9921875 L 7.0078125 10 L 9.0078125 8 z "
+       style="fill:#1a1a1a;fill-opacity:1;fill-rule:nonzero;stroke:#00ff00;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 4,4 0,1 0,1 -1,0 0,1 0,10 0,1 1,0 14,0 0,-1 -14,0 0,-10 14,0 0,11 1,0 0,-12 -8,0 0,-2 -1,0 -5,0 z m 1,1 5,0 0,1 -5,0 z"
        transform="translate(0,1030.3622)"
-       id="rect4069" />
+       id="rect4165"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccccccccccccccccc" />
   </g>
 </svg>

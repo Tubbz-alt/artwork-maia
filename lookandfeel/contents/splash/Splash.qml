@@ -69,7 +69,7 @@ Image {
         YAnimator {
             target: topRect
             from: root.height
-            to: root.height / 3
+            to: root.height / 2
             duration: 1000
             easing.type: Easing.InOutBack
             easing.overshoot: 1.0
@@ -77,7 +77,7 @@ Image {
         YAnimator {
             target: bottomRect
             from: -bottomRect.height
-            to: 2 * (root.height / 3) - bottomRect.height
+            to: (root.height / 2) - bottomRect.height
             duration: 1000
             easing.type: Easing.InOutBack
             easing.overshoot: 1.0

@@ -61,11 +61,28 @@ Image {
     Controls.StackView {
         id: stackView
 
+        //Display the loginpromt only in the primary screen
+        readonly property rect geometry: screenModel.geometry(screenModel.primary)
+        width: geometry.width
+        x: geometry.x
         height: units.largeSpacing*14
-        anchors.centerIn: parent
+        //Display the BreezeBlock in the middle of each screen
+        y: geometry.y + (geometry.height / 2) - (height / 2)
 
         initialItem: BreezeBlock {
             id: loginPrompt
+
+            //Enable clipping whilst animating, otherwise the items would be shifted to other screens in multiscreen setups
+            //As there are only 2 items (loginPrompt and logoutScreenComponent), it's sufficient to do it only in this component
+            //Remember to enable clipping whilst animating when creating additional items for the StackView!
+            Controls.Stack.onStatusChanged: {
+                if(Controls.Stack.status === Controls.Stack.Activating || Controls.Stack.status === Controls.Stack.Deactivating){
+                    stackView.clip = true;
+                }else if(Controls.Stack.status === Controls.Stack.Active || Controls.Stack.status === Controls.Stack.Inactive){
+                    stackView.clip = false;
+                }
+            }
+
             main: UserSelect {
                 id: usersSelection
                 model: userModel
@@ -187,8 +204,8 @@ Image {
                         }
                     }
                     onVisibleChanged: if(visible) {
-                        mode = ""
-                    }
+                                          mode = ""
+                                      }
                 }
 
                 Connections {

@@ -103,9 +103,26 @@ Type=Fixed
 
 ## Places End
 
-[status/scalable]
-Size=96
+## Status Start
+
+[status/dialogs]
+Size=64
 Context=Status
-Type=Scalable
-MinSize=16
-MaxSize=96
+Type=Fixed
+
+[status/im-status]
+Size=16
+Context=Status
+Type=Fixed
+
+[status/toolbar]
+Size=22
+Context=Status
+Type=Fixed
+
+[status/panel]
+Size=22
+Context=Status
+Type=Fixed
+
+## Status End

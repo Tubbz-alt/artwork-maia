@@ -15,7 +15,7 @@
    id="svg5453"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="preferences-desktop-color.svg">
+   sodipodi:docname="preferences-color.svg">
   <defs
      id="defs5455">
     <linearGradient
@@ -475,7 +475,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="8.0000005"
-     inkscape:cx="3.0017504"
+     inkscape:cx="-17.998248"
      inkscape:cy="19.652896"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -485,7 +485,7 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1366"
-     inkscape:window-height="697"
+     inkscape:window-height="696"
      inkscape:window-x="-4"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -576,7 +576,7 @@
        height="28"
        x="386.57144"
        y="517.79797"
-       ry="0" />
+       ry="14" />
     <g
        id="g4612"
        transform="matrix(0.66347102,0.17777648,-0.17777652,0.66347082,222.61511,111.63893)">

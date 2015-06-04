@@ -15,7 +15,7 @@
    version="1.1"
    inkscape:version="0.91 r13725"
    viewBox="0 0 22 22"
-   sodipodi:docname="document-open-folder.svg">
+   sodipodi:docname="project-open.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -25,16 +25,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="31.678384"
-     inkscape:cx="10.994664"
-     inkscape:cy="7.4024921"
+     inkscape:zoom="22.4"
+     inkscape:cx="-0.24714744"
+     inkscape:cy="8.5720952"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:showpageshadow="false"
      borderlayer="true"
      inkscape:window-width="1366"
-     inkscape:window-height="694"
+     inkscape:window-height="691"
      inkscape:window-x="-4"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -87,7 +87,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -97,11 +97,10 @@
      id="layer1"
      transform="translate(0,-1030.3622)">
     <path
-       style="fill:#1a1a1a;fill-opacity:1;fill-rule:nonzero;stroke:#00ff00;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 4,4 0,1 0,1 -1,0 0,1 0,10 0,1 1,0 14,0 0,-1 -14,0 0,-10 14,0 0,11 1,0 0,-12 -8,0 0,-2 -1,0 -5,0 z m 1,1 5,0 0,1 -5,0 z"
-       transform="translate(0,1030.3622)"
-       id="rect4165"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccccccccccccccccccccccccc" />
+       style="fill:#1a1a1a;fill-opacity:1;fill-rule:nonzero;stroke:#00ff00;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 4,1034.3622 c -0.554,0 -1,0.446 -1,1 l 0,1 0,1 0,1 0,9 0,1 1,0 15,0 0,-1 0,-11 -8,0 0,-1 c 0,-0.554 -0.446,-1 -1,-1 z m 0.4042969,1 5.1914061,0 c 0.223472,0 0.404297,0.1808 0.404297,0.4043 l 0,1.0957 -1.5,1.5 -4.5,0 0,-2.5957 c 0,-0.2235 0.1808251,-0.4043 0.4042969,-0.4043 z m 6.5957031,2 7,0 0,10 -14,0 0,-8 5,0 z"
+       id="rect4165"
+       sodipodi:nodetypes="ssccccccccccsssssscccssccccccc" />
   </g>
 </svg>

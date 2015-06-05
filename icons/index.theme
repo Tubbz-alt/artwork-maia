@@ -1,9 +1,24 @@
 [Icon Theme]
 Name=Maia
 Comment=Green colors icons for plasma desktop
-Inherits=Maia
+DisplayDepth=32
 
-Example=x-directory-normal
+Inherits=hicolor
+
+Example=folder
+
+DesktopDefault=48
+DesktopSizes=16,22,32,48,64,128,256
+ToolbarDefault=22
+ToolbarSizes=16,22,32,48
+MainToolbarDefault=22
+MainToolbarSizes=16,22,32,48
+SmallDefault=16
+SmallSizes=16,22,32,48
+PanelDefault=32
+PanelSizes=16,22,32,48,64,128,256
+DialogDefault=32
+DialogSizes=16,22,32,48,64,128,256
 
 Directories=actions/toolbar,actions/toolbar-small,actions/categories,apps/scalable,categories/scalable,categories/small,devices/scalable,devices/small,emblems/scalable,emblems/small,places/user-folders,places/user-folders-small,status/scalable,mimetypes/scalable
 

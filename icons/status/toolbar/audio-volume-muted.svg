@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="16.000001"
-     inkscape:cx="-0.069214301"
-     inkscape:cy="12.064399"
+     inkscape:zoom="8.0000004"
+     inkscape:cx="24.141999"
+     inkscape:cy="-1.2045697"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -35,7 +35,7 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1366"
-     inkscape:window-height="696"
+     inkscape:window-height="689"
      inkscape:window-x="-4"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -46,38 +46,6 @@
        id="grid4106"
        originx="-0.99998557px"
        originy="-1.0000252px" />
-    <sodipodi:guide
-       position="2.00001,19.99997"
-       orientation="0,18"
-       id="guide4229" />
-    <sodipodi:guide
-       position="20.00001,19.99997"
-       orientation="18,0"
-       id="guide4231" />
-    <sodipodi:guide
-       position="20.00001,1.99997"
-       orientation="0,-18"
-       id="guide4233" />
-    <sodipodi:guide
-       position="2.00001,1.99997"
-       orientation="-18,0"
-       id="guide4235" />
-    <sodipodi:guide
-       position="19.00001,2.99997"
-       orientation="0,-16"
-       id="guide4241" />
-    <sodipodi:guide
-       position="2.9999956,18.999992"
-       orientation="6,0"
-       id="guide4155" />
-    <sodipodi:guide
-       position="18.999996,12.999992"
-       orientation="-6,0"
-       id="guide4167" />
-    <sodipodi:guide
-       position="18.999996,18.999992"
-       orientation="0,-6"
-       id="guide4169" />
   </sodipodi:namedview>
   <metadata
      id="metadata3765">
@@ -87,7 +55,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -96,16 +64,6 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-551.28571,-607.64788)">
-    <g
-       id="g3806"
-       transform="translate(551.28786,607.64788)">
-      <path
-         sodipodi:nodetypes="cccccccccccccc"
-         inkscape:connector-curvature="0"
-         id="path3174"
-         d="M 8.896875,4.1875 C 8.6359633,4.1981215 8.4139166,4.3093298 8.240625,4.5 l -2.9375,3.0625 -3.334375,0 C 1.4091948,7.5625573 1.0000526,8.016795 1,8.5625 L 1,13.5 c 5.26e-5,0.545705 0.4091948,0.968693 0.96875,0.96875 l 3.334375,0 2.9375,3.0625 c 0.00995,0.01087 0.02038,0.0213 0.03125,0.03125 0.6140382,0.604485 1.644504,0.09978 1.625,-0.75 l 0,-11.625 c -5.2e-5,-0.5457056 -0.4091974,-0.9999405 -0.96875,-1 -0.010413,-3.255e-4 -0.020837,-3.255e-4 -0.03125,0 z"
-         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#1a1a1a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
-    </g>
     <rect
        style="fill:#ff0000;fill-opacity:0;stroke:none"
        id="rect3812"
@@ -113,9 +71,22 @@
        height="22"
        x="551.28571"
        y="608.64789" />
-    <path
-       style="fill:#e74c3c;fill-opacity:1"
-       d="m 564.28571,617.64789 8,0 0,2 -8,0 z"
-       id="rect4237" />
+    <rect
+       y="617.64789"
+       x="591.28571"
+       height="22"
+       width="22"
+       id="rect4168"
+       style="fill:#ff0000;fill-opacity:0;stroke:none" />
+    <g
+       id="g4169"
+       style="fill:#1a1a1a;fill-opacity:1"
+       transform="translate(-40,-10)">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4160"
+         d="m 599.83063,621.64898 c -0.37158,0.0161 -0.7157,0.2041 -0.94531,0.47265 l -2.47266,2.7461 -2.75976,0 c -0.78909,8e-5 -1.36712,0.69821 -1.36719,1.45312 l 0,4.70899 c 7e-5,0.75491 0.59794,1.42374 1.36719,1.42382 l 2.75976,0 2.48047,2.75586 c 0.012,0.0137 0.0247,0.0264 0.0371,0.0391 4.3e-4,4.6e-4 0.002,-4.5e-4 0.002,0 0.41909,0.43844 1.06169,0.49719 1.52539,0.26367 0.46418,-0.23374 0.80192,-0.73713 0.78907,-1.33398 l 0,-11.07617 c -7e-5,-0.75491 -0.57811,-1.45303 -1.36719,-1.45312 -0.0147,-2.2e-4 -0.0303,-4.9e-4 -0.0449,0 l -0.002,0 -0.002,0 z m 0.041,1 0.002,0 0.006,0 c 0.21232,2e-5 0.36716,0.16717 0.36719,0.45312 l 0,11.0918 0,0.006 c 0.005,0.21358 -0.11037,0.35452 -0.24024,0.41992 -0.12986,0.0654 -0.22116,0.0763 -0.35156,-0.0606 l -0.006,-0.006 -0.004,-0.004 c -0.001,-10e-4 -0.003,-0.003 -0.004,-0.004 l 0,-0.002 -2.7832,-3.08984 -3.20508,0 c -0.23216,10e-6 -0.36715,-0.13784 -0.36718,-0.42379 l 0,-4.70899 c 3e-5,-0.28595 0.15487,-0.4531 0.36719,-0.45312 l 3.20508,0 2.7832,-3.0918 0.004,-0.004 c 0.08,-0.0938 0.13299,-0.11869 0.22656,-0.12304 z"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#1a1a1a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00004375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    </g>
   </g>
 </svg>

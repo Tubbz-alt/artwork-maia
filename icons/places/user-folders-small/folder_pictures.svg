@@ -54,7 +54,7 @@
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
-     bordercolor="#666666"
+     bordercolor="#ffffff"
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
@@ -135,7 +135,7 @@
      transform="translate(-3,-29)">
     <path
        inkscape:connector-curvature="0"
-       style="fill:#1a1a1a;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       style="fill:#f7f7f7;fill-opacity:1;fill-rule:evenodd;stroke:none"
        d="m 5,31 0,12 12,0 0,-12 z m 1,1 10,0 0,7.5 -2.410359,-5.145439 -2.935676,5.23392 L 8.8384614,36.973084 6,41 Z"
        id="folderGlyph-7"
        sodipodi:nodetypes="ccccccccccccc" />

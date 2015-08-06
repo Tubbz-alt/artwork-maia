@@ -31,15 +31,29 @@ Image {
         }
     }
     Rectangle {
+        id: topRect
+        width: parent.width
+        height: (root.height / 3) - bottomRect.height - 1
+        y: root.height
+        color: "#282828"
+        Image {
+            source: "images/manjaro.svgz"
+            anchors.centerIn: parent
+            sourceSize.height: 128
+            sourceSize.width: 128
+        }
+    }
+
+    Rectangle {
         id: bottomRect
         width: parent.width
         y: -height
         height: 50
-        color: "#292f34"
+        color: "#282828"
 
         Rectangle {
             radius: 3
-            color: "#384242"
+            color: "#656565"
             anchors.centerIn: parent
             height: 8
             width: height*32
@@ -51,7 +65,7 @@ Image {
                     bottom: parent.bottom
                 }
                 width: (parent.width / 6) * (stage - 1)
-                color: "#16a085"
+                color: "#16A085"
                 Behavior on width { 
                     PropertyAnimation {
                         duration: 250
@@ -69,7 +83,7 @@ Image {
         YAnimator {
             target: topRect
             from: root.height
-            to: root.height / 2
+            to: root.height / 3
             duration: 1000
             easing.type: Easing.InOutBack
             easing.overshoot: 1.0
@@ -77,7 +91,7 @@ Image {
         YAnimator {
             target: bottomRect
             from: -bottomRect.height
-            to: (root.height / 2) - bottomRect.height
+            to: 2 * (root.height / 3) - bottomRect.height
             duration: 1000
             easing.type: Easing.InOutBack
             easing.overshoot: 1.0

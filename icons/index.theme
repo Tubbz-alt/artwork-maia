@@ -20,11 +20,21 @@ PanelSizes=16,22,32,48,64,128,256
 DialogDefault=32
 DialogSizes=16,22,32,48,64,128,256
 
-Directories=actions/toolbar,actions/toolbar-small,actions/categories,apps/scalable,categories/scalable,categories/small,devices/scalable,devices/small,emblems/scalable,emblems/small,places/user-folders,places/user-folders-small,status/scalable,mimetypes/scalable
+Directories=actions/toolbar,actions/toolbar-kde,actions/toolbar-gtk,actions/toolbar-small,actions/toolbar-small-gtk,apps/scalable,categories/scalable,categories/small,devices/scalable,devices/small,emblems/scalable,emblems/small,mimetypes/scalable,places/user-folders,places/user-folders-small,status/im-status,status/toolbar,status/panel,status/dialogs
 
 # Actions Start
 
 [actions/toolbar]
+Size=22
+Context=Actions
+Type=Fixed
+
+[actions/toolbar-kde]
+Size=22
+Context=Actions
+Type=Fixed
+
+[actions/toolbar-gtk]
 Size=22
 Context=Actions
 Type=Fixed
@@ -34,9 +44,9 @@ Size=16
 Context=Actions
 Type=Fixed
 
-[actions/categories]
+[actions/toolbar-small-gtk]
 Size=16
-Context=Categories
+Context=Actions
 Type=Fixed
 
 # Actions End
@@ -120,11 +130,6 @@ Type=Fixed
 
 ## Status Start
 
-[status/dialogs]
-Size=64
-Context=Status
-Type=Fixed
-
 [status/im-status]
 Size=16
 Context=Status
@@ -137,6 +142,11 @@ Type=Fixed
 
 [status/panel]
 Size=22
+Context=Status
+Type=Fixed
+
+[status/dialogs]
+Size=64
 Context=Status
 Type=Fixed
 

@@ -54,7 +54,7 @@
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
-     bordercolor="#666666"
+     bordercolor="#ffffff"
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
@@ -137,7 +137,7 @@
      inkscape:groupmode="layer"
      transform="translate(-3,-29)">
     <path
-       style="fill:#1a1a1a;fill-opacity:1;fill-rule:nonzero;stroke:#00ff00;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#f7f7f7;fill-opacity:1;fill-rule:nonzero;stroke:#00ff00;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 2 1 L 2 5 L 2 6 L 2 10 L 2 11 L 2 13 L 2 15 L 14 15 L 14 14 L 14 11 L 14 4 L 14 1 L 2 1 z M 12 2 A 1 1 0 0 1 13 3 A 1 1 0 0 1 12 4 A 1 1 0 0 1 11 3 A 1 1 0 0 1 12 2 z M 3 5 L 13 5 L 13 6 L 3 6 L 3 5 z M 12 7 A 1 1 0 0 1 13 8 A 1 1 0 0 1 12 9 A 1 1 0 0 1 11 8 A 1 1 0 0 1 12 7 z M 3 10 L 13 10 L 13 11 L 3 11 L 3 10 z M 12 12 A 1 1 0 0 1 13 13 A 1 1 0 0 1 12 14 A 1 1 0 0 1 11 13 A 1 1 0 0 1 12 12 z "
        transform="translate(3,29)"
        id="rect4163" />

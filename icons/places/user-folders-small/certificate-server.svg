@@ -21,7 +21,7 @@
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
-     bordercolor="#666666"
+     bordercolor="#ffffff"
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
@@ -80,7 +80,7 @@
      transform="translate(0,-1036.3622)">
     <path
        inkscape:connector-curvature="0"
-       style="fill:#1a1a1a;fill-opacity:1;stroke:none"
+       style="fill:#f7f7f7;fill-opacity:1;stroke:none"
        d="m 8,1038.3622 c -1.662,0 -3,1.338 -3,3 l 0,3 -2,0 0,0.75 0,5.25 10,0 0,-6 -2,0 0,-3 c 0,-1.662 -1.338,-3 -3,-3 z m 0,1 c 1.2465,0 2,0.5458 2,2 l 0,3 -4,0 0,-3 c 0,-1.4542 0.753506,-2 2,-2 z"
        id="rect4136"
        sodipodi:nodetypes="sscccccccssssccss" />

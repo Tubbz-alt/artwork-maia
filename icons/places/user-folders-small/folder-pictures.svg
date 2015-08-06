@@ -20,7 +20,7 @@
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
-     bordercolor="#666666"
+     bordercolor="#ffffff"
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
@@ -186,7 +186,7 @@
      inkscape:label="folder">
     <path
        inkscape:connector-curvature="0"
-       style="fill:#1a1a1a;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       style="fill:#f7f7f7;fill-opacity:1;fill-rule:evenodd;stroke:none"
        d="m 8.613822,7.8790811 0,32.2418379 30.772356,0 0,-32.2418379 -30.772356,0 z m 3.077237,3.2241849 24.617883,0 0,19.345102 -6.154472,-12.896736 -7.212269,15.113362 -4.327364,-7.052902 -6.923778,11.284645 0,-25.793471 z"
        id="folderGlyph-7" />
   </g>

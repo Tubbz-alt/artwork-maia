@@ -21,7 +21,7 @@
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
-     bordercolor="#666666"
+     bordercolor="#ffffff"
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
@@ -81,19 +81,19 @@
     <g
        id="layer1-0"
        inkscape:label="Capa 1"
-       style="fill:#1a1a1a;fill-opacity:1">
+       style="fill:#f7f7f7;fill-opacity:1">
       <rect
          y="1039.3622"
          x="-17"
          height="10.999983"
          width="0"
          id="rect4035"
-         style="fill:#1a1a1a;fill-opacity:1;stroke:none" />
+         style="fill:#f7f7f7;fill-opacity:1;stroke:none" />
       <path
          id="rect3918"
          transform="translate(0,1036.3622)"
          d="M 3.7148438,3 3,3.6953125 5.6386719,6.4921875 3.0175781,9.3046875 3.7324219,10 6.6757812,6.8378906 7,6.4921875 6.6757812,6.1445312 3.7148438,3 Z M 7,12 l 0,1 6,0 0,-1 -6,0 z"
-         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#1a1a1a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.1;marker:none;enable-background:accumulate"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#f7f7f7;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.1;marker:none;enable-background:accumulate"
          inkscape:connector-curvature="0" />
     </g>
   </g>

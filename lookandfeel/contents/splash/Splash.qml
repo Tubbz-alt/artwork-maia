@@ -35,7 +35,7 @@ Image {
         width: parent.width
         height: (root.height / 3) - bottomRect.height - 1
         y: root.height
-        color: "#282828"
+        color: "#292f34"
         Image {
             source: "images/manjaro.svgz"
             anchors.centerIn: parent
@@ -49,11 +49,11 @@ Image {
         width: parent.width
         y: -height
         height: 50
-        color: "#282828"
+        color: "#292f34"
 
         Rectangle {
             radius: 3
-            color: "#656565"
+            color: "#4B5055"
             anchors.centerIn: parent
             height: 8
             width: height*32

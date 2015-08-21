@@ -80,7 +80,7 @@
      id="layer1"
      transform="translate(0,-1030.3622)">
     <path
-       style="fill:#d24d57;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:#e74c3c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 11,3 -7,1 0,8 c 0.016813,3.5683 2.9950654,5.792 7,7 4.004935,-1.208 6.98319,-3.4317 7,-7 L 18,4 Z M 7.3730469,5.1679688 11,9.2480469 14.626953,5.1679688 15.373047,5.8320312 11.667969,10 15.373047,14.167969 14.626953,14.832031 11,10.751953 7.3730469,14.832031 6.6269531,14.167969 10.332031,10 6.6269531,5.8320312 Z"
        transform="translate(0,1030.3622)"
        id="path4145"

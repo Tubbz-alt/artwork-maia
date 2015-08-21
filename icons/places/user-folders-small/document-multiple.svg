@@ -147,17 +147,17 @@
              height="1"
              width="12"
              id="rect3352"
-             style="fill:#f7f7f7;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+             style="fill:#182128;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
           <rect
              transform="matrix(0,1,-1,0,0,0)"
-             style="fill:#f7f7f7;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             style="fill:#182128;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
              id="rect4154"
              width="12"
              height="1"
              x="30"
              y="-5" />
           <rect
-             style="fill:#f7f7f7;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             style="fill:#182128;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
              id="rect4165"
              width="12"
              height="1"
@@ -169,7 +169,7 @@
              height="1"
              width="12"
              id="rect4176"
-             style="fill:#f7f7f7;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             style="fill:#182128;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
              transform="matrix(0,1,-1,0,0,0)" />
         </g>
         <g
@@ -181,16 +181,16 @@
              height="1"
              width="7"
              id="rect4178"
-             style="fill:#f7f7f7;fill-opacity:1;stroke:none" />
+             style="fill:#182128;fill-opacity:1;stroke:none" />
           <rect
-             style="fill:#f7f7f7;fill-opacity:1;stroke:none"
+             style="fill:#182128;fill-opacity:1;stroke:none"
              id="rect4180"
              width="7"
              height="1"
              x="6.5"
              y="39" />
           <rect
-             style="fill:#f7f7f7;fill-opacity:1;stroke:none"
+             style="fill:#182128;fill-opacity:1;stroke:none"
              id="rect4182"
              width="7"
              height="1"
@@ -204,10 +204,10 @@
          height="3"
          width="1"
          id="rect4188"
-         style="fill:#f7f7f7;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1" />
+         style="fill:#182128;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1" />
       <rect
          transform="matrix(0,1,-1,0,0,0)"
-         style="fill:#f7f7f7;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+         style="fill:#182128;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
          id="rect4190"
          width="1"
          height="12"
@@ -219,7 +219,7 @@
          height="12"
          width="1"
          id="rect4192"
-         style="fill:#f7f7f7;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+         style="fill:#182128;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
          transform="scale(-1,-1)" />
       <rect
          y="32"
@@ -227,7 +227,7 @@
          height="1"
          width="3"
          id="rect4194"
-         style="stroke:none;fill:#f7f7f7;fill-opacity:1" />
+         style="stroke:none;fill:#182128;fill-opacity:1" />
     </g>
   </g>
 </svg>

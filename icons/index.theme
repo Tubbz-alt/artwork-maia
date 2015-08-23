@@ -50,7 +50,7 @@ Context=Actions
 Type=Fixed
 
 [actions/toolbar-small-kde]
-Size=22
+Size=16
 Context=Actions
 Type=Fixed
 

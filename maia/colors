@@ -19,7 +19,7 @@ IntensityEffect=0
 
 [Colors:Button]
 BackgroundAlternate=65,65,65
-BackgroundNormal=50,50,50
+BackgroundNormal=41,47,52
 DecorationFocus=26,188,156
 DecorationHover=22,160,133
 ForegroundActive=174,168,211
@@ -29,7 +29,7 @@ ForegroundNegative=231,76,60
 ForegroundNeutral=230,126,34
 ForegroundNormal=247,247,247
 ForegroundPositive=46,204,113
-ForegroundVisited=129,207,224
+ForegroundVisited=91,44,112
 
 [Colors:Selection]
 BackgroundAlternate=26,188,156
@@ -43,11 +43,11 @@ ForegroundNegative=159,48,40
 ForegroundNeutral=180,66,0
 ForegroundNormal=247,247,247
 ForegroundPositive=25,112,61
-ForegroundVisited=58,83,155
+ForegroundVisited=91,44,112
 
 [Colors:Tooltip]
 BackgroundAlternate=35,35,35
-BackgroundNormal=25,25,25
+BackgroundNormal=41,47,52
 DecorationFocus=26,188,156
 DecorationHover=22,160,133
 ForegroundActive=174,168,211
@@ -57,11 +57,11 @@ ForegroundNegative=231,76,60
 ForegroundNeutral=230,126,34
 ForegroundNormal=247,247,247
 ForegroundPositive=46,204,113
-ForegroundVisited=129,207,224
+ForegroundVisited=91,44,112
 
 [Colors:View]
 BackgroundAlternate=65,65,65
-BackgroundNormal=45,45,45
+BackgroundNormal=41,47,52
 DecorationFocus=22,160,133
 DecorationHover=26,188,156
 ForegroundActive=174,168,211
@@ -71,11 +71,11 @@ ForegroundNegative=231,76,60
 ForegroundNeutral=230,126,34
 ForegroundNormal=247,247,247
 ForegroundPositive=46,204,113
-ForegroundVisited=129,207,224
+ForegroundVisited=91,44,112
 
 [Colors:Window]
 BackgroundAlternate=25,25,25
-BackgroundNormal=35,35,35
+BackgroundNormal=41,47,52
 DecorationFocus=26,188,156
 DecorationHover=22,160,133
 ForegroundActive=174,168,211
@@ -85,20 +85,20 @@ ForegroundNegative=231,76,60
 ForegroundNeutral=230,126,34
 ForegroundNormal=247,247,247
 ForegroundPositive=46,204,113
-ForegroundVisited=129,207,224
+ForegroundVisited=91,44,112
 
 [General]
-ColorScheme=Maia Devel
-Name=Maia Devel
+ColorScheme=Maia Dark
+Name=Maia Dark
 shadeSortColumn=true
 
 [KDE]
 contrast=7
 
 [WM]
-activeBackground=25,25,25
-activeBlend=25,25,25
+activeBackground=41,47,52
+activeBlend=41,47,52
 activeForeground=247,247,247
-inactiveBackground=35,35,35
-inactiveBlend=35,35,35
+inactiveBackground=41,47,52
+inactiveBlend=41,47,52
 inactiveForeground=247,247,247

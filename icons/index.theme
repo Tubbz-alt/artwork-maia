@@ -20,7 +20,7 @@ PanelSizes=16,22,32,48,64,128,256
 DialogDefault=32
 DialogSizes=16,22,32,48,64,128,256
 
-Directories=actions/toolbar,actions/toolbar-kde,actions/toolbar-gtk,actions/toolbar-small,actions/toolbar-small-gtk,apps/scalable,categories/scalable,categories/start-menu-medium,devices/scalable,devices/small,emblems/scalable,emblems/small,mimetypes/scalable,places/user-folders,places/user-folders-small,status/im-status,status/toolbar,status/panel,status/dialogs
+Directories=actions/toolbar,actions/toolbar-kde,actions/toolbar-gtk,actions/toolbar-gtk-24,actions/toolbar-small,actions/toolbar-small-kde,actions/toolbar-small-gtk,apps/scalable,categories/scalable,categories/start-menu-medium,devices/scalable,devices/small,emblems/scalable,emblems/small,mimetypes/scalable,places/user-folders,places/user-folders-small,status/im-status,status/toolbar,status/panel,status/dialogs
 
 ## Actions Start
 
@@ -39,8 +39,18 @@ Size=22
 Context=Actions
 Type=Fixed
 
+[actions/toolbar-gtk-24]
+Size=24
+Context=Actions
+Type=Fixed
+
 [actions/toolbar-small]
 Size=16
+Context=Actions
+Type=Fixed
+
+[actions/toolbar-small-kde]
+Size=22
 Context=Actions
 Type=Fixed
 

@@ -164,7 +164,8 @@ ColumnLayout {
             delegate: Milou.ResultDelegate {
                 id: resultDelegate
                 width: listView.width
-                typeText: index === 0 ? i18nd("plasma_lookandfeel_org.kde.lookandfeel", "Recent Queries") : ""
+                // Revert in Plasma 5.4
+                // typeText: index === 0 ? i18nd("plasma_lookandfeel_org.kde.lookandfeel", "Recent Queries") : ""
             }
 
             Keys.onReturnPressed: runCurrentIndex()

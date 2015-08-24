@@ -17,7 +17,7 @@
    enable-background="new 0 0 100 100"
    xml:space="preserve"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="krita.svg"><metadata
+   sodipodi:docname="calligrakrita.svg"><metadata
      id="metadata8"><rdf:RDF><cc:Work
          rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><defs
@@ -34,9 +34,9 @@
      inkscape:window-height="996"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="5.6568544"
-     inkscape:cx="25.301869"
-     inkscape:cy="89.16131"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="-140.42942"
+     inkscape:cy="45.690702"
      inkscape:window-x="-4"
      inkscape:window-y="0"
      inkscape:window-maximized="1"

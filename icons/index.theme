@@ -20,7 +20,7 @@ PanelSizes=16,22,32,48,64,128,256
 DialogDefault=32
 DialogSizes=16,22,32,48,64,128,256
 
-Directories=actions/toolbar,actions/toolbar-kde,actions/toolbar-gtk,actions/toolbar-gtk-24,actions/toolbar-small,actions/toolbar-small-kde,actions/toolbar-small-gtk,apps/scalable,categories/scalable,categories/start-menu-medium,devices/scalable,devices/small,emblems/scalable,emblems/small,mimetypes/scalable,places/user-folders,places/user-folders-small,status/im-status,status/toolbar,status/panel,status/dialogs
+Directories=actions/toolbar,actions/toolbar-kde,actions/toolbar-gtk,actions/toolbar-gtk-24,actions/toolbar-small,actions/toolbar-small-kde,actions/toolbar-small-gtk,apps/scalable,categories/start-menu,categories/start-menu-medium,devices/scalable,devices/small,emblems/scalable,emblems/small,mimetypes/scalable,places/user-folders,places/user-folders-small,status/im-status,status/toolbar,status/panel,status/dialogs
 
 ## Actions Start
 
@@ -70,12 +70,10 @@ MaxSize=512
 
 ## Categories Start
 
-[categories/scalable]
-Size=96
+[categories/start-menu]
+Size=32
 Context=Categories
-Type=Scalable
-MinSize=16
-MaxSize=96
+Type=Fixed
 
 [categories/start-menu-medium]
 Size=22

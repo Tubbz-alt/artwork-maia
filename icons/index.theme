@@ -20,42 +20,17 @@ PanelSizes=16,22,32,48,64,128,256
 DialogDefault=32
 DialogSizes=16,22,32,48,64,128,256
 
-Directories=actions/toolbar,actions/toolbar-kde,actions/toolbar-gtk,actions/toolbar-gtk-24,actions/toolbar-small,actions/toolbar-small-kde,actions/toolbar-small-gtk,apps/scalable,categories/start-menu,categories/start-menu-medium,devices/hardware,devices/sidebars,emblems/scalable,emblems/small,mimetypes/scalable,places/user-folders,places/user-folders-small,status/im-status,status/toolbar,status/panel,status/dialogs
+Directories=actions/16,actions/22,apps/scalable,categories/start-menu,categories/start-menu-medium,devices/hardware,devices/sidebars,emblems/scalable,emblems/small,mimetypes/scalable,places/user-folders,places/user-folders-small,status/im-status,status/toolbar,status/panel,status/dialogs
 
 ## Actions Start
 
-[actions/toolbar]
-Size=22
-Context=Actions
-Type=Fixed
-
-[actions/toolbar-kde]
-Size=22
-Context=Actions
-Type=Fixed
-
-[actions/toolbar-gtk]
-Size=22
-Context=Actions
-Type=Fixed
-
-[actions/toolbar-gtk-24]
-Size=24
-Context=Actions
-Type=Fixed
-
-[actions/toolbar-small]
+[actions/16]
 Size=16
 Context=Actions
 Type=Fixed
 
-[actions/toolbar-small-kde]
-Size=16
-Context=Actions
-Type=Fixed
-
-[actions/toolbar-small-gtk]
-Size=16
+[actions/22]
+Size=22
 Context=Actions
 Type=Fixed
 
@@ -112,12 +87,16 @@ Type=Fixed
 
 ## Emblems End
 
+## Mimetypes Start
+
 [mimetypes/scalable]
-Size=512
+Size=64
 Context=MimeTypes
 Type=Scalable
 MinSize=48
 MaxSize=512
+
+## Mimetypes End
 
 ## Places Start
 

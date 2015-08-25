@@ -47,6 +47,7 @@ Image {
         target: authenticator
         onFailed: {
             root.notification = i18nd("plasma_lookandfeel_org.kde.lookandfeel","Unlocking failed");
+            root.clearPassword()
         }
         onGraceLockedChanged: {
             if (!authenticator.graceLocked) {
@@ -274,11 +275,7 @@ Image {
                                 }
                                 PlasmaComponents.Button {
                                     text: i18nd("plasma_lookandfeel_org.kde.lookandfeel","Change Session")
-                                    onClicked: {
-                                        sessions.activateSession(selectSessionBlock.mainItem.selectedIndex)
-                                        stackView.pop()
-                                        userSelect.selectedIndex = 0;
-                                    }
+                                    onClicked: sessions.activateSession(selectSessionBlock.mainItem.selectedIndex)
                                 }
                             }
                         }

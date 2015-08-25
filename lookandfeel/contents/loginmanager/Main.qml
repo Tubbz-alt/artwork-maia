@@ -84,21 +84,14 @@ Image {
             }
 
             main: UserSelect {
+                id: usersSelection
                 model: userModel
                 selectedIndex: userModel.lastIndex
-
-                //Resets the "Login Failed" notification after 3 seconds
-                Timer {
-                    id: notificationResetTimer
-                    interval: 3000
-                    onTriggered: notification = ""
-                }
 
                 Connections {
                     target: sddm
                     onLoginFailed: {
-                        notificationResetTimer.restart()
-                        notification = i18nd("plasma_lookandfeel_org.kde.lookandfeel", "Login Failed")
+                        usersSelection.notification = i18nd("plasma_lookandfeel_org.kde.lookandfeel", "Login Failed")
                     }
                 }
 
@@ -109,8 +102,6 @@ Image {
 
                 property alias password: passwordInput.text
                 property alias sessionIndex: sessionCombo.currentIndex
-                property alias buttonEnabled: loginButton.enabled
-                property alias pwFieldEnabled: passwordInput.enabled
 
                 ColumnLayout {
                     anchors.horizontalCenter: parent.horizontalCenter
@@ -124,7 +115,10 @@ Image {
                             id: passwordInput
                             placeholderText: i18nd("plasma_lookandfeel_org.kde.lookandfeel","Password")
                             echoMode: TextInput.Password
-                            onAccepted: loginPrompt.startLogin()
+                            onAccepted: {
+                                enabled = false
+                                loginPrompt.startLogin()
+                            }
                             focus: true
 
                             //focus works in qmlscene
@@ -133,6 +127,7 @@ Image {
                             Timer {
                                 interval: 200
                                 running: true
+                                repeat: false
                                 onTriggered: passwordInput.forceActiveFocus()
                             }
                             //end hack
@@ -158,7 +153,6 @@ Image {
                         }
 
                         PlasmaComponents.Button {
-                            id: loginButton
                             //this keeps the buttons the same width and thus line up evenly around the centre
                             Layout.minimumWidth: passwordInput.width
                             text: i18nd("plasma_lookandfeel_org.kde.lookandfeel","Login")
@@ -217,22 +211,15 @@ Image {
                 Connections {
                     target: sddm
                     onLoginFailed: {
-                        //Re-enable button and textfield
                         passwordInput.enabled = true
                         passwordInput.selectAll()
                         passwordInput.forceActiveFocus()
-                        loginButton.enabled = true;
                     }
                 }
 
             }
 
             function startLogin () {
-                //Disable button and textfield while password check is running
-                controlsItem.pwFieldEnabled = false;
-                controlsItem.buttonEnabled = false;
-                //Clear notification in case the notificationResetTimer hasn't expired yet
-                mainItem.notification = ""
                 sddm.login(mainItem.selectedUser, controlsItem.password, controlsItem.sessionIndex)
             }
 

@@ -20,7 +20,7 @@ PanelSizes=16,22,32,48,64,128,256
 DialogDefault=32
 DialogSizes=16,22,32,48,64,128,256
 
-Directories=actions/16,actions/22,apps/scalable,categories/start-menu,categories/start-menu-medium,devices/hardware,devices/sidebars,emblems/scalable,emblems/small,mimetypes/file-types,places/user-folders,places/user-folders-small,status/im-status,status/toolbar,status/panel,status/dialogs
+Directories=actions/16,actions/22,actions/24,apps/scalable,categories/start-menu,categories/start-menu-medium,devices/hardware,devices/sidebars,emblems/scalable,emblems/small,mimetypes/file-types,places/user-folders,places/user-folders-small,status/im-status,status/toolbar,status/panel,status/dialogs
 
 ## Actions Start
 
@@ -31,6 +31,11 @@ Type=Fixed
 
 [actions/22]
 Size=22
+Context=Actions
+Type=Fixed
+
+[actions/24]
+Size=24
 Context=Actions
 Type=Fixed
 
@@ -93,7 +98,7 @@ Type=Fixed
 Size=64
 Context=MimeTypes
 Type=Scalable
-MinSize=48
+MinSize=32
 MaxSize=512
 
 ## Mimetypes End

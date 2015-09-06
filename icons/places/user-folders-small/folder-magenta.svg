@@ -14,7 +14,10 @@
    id="svg4359"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="folder-home.svg">
+   sodipodi:docname="folder-magenta.svg"
+   inkscape:export-filename="E:\Usuarios\David\Desktop\folder-black.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
   <defs
      id="defs4361">
     <linearGradient
@@ -58,26 +61,31 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="11.313709"
-     inkscape:cx="3.4885715"
-     inkscape:cy="6.5934302"
+     inkscape:zoom="32"
+     inkscape:cx="-1.0383025"
+     inkscape:cy="7.4228973"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
-     inkscape:window-width="1366"
-     inkscape:window-height="694"
-     inkscape:window-x="-4"
+     inkscape:window-width="1920"
+     inkscape:window-height="996"
+     inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false"
      borderlayer="true"
-     showguides="false"
+     showguides="true"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:object-nodes="true">
+     inkscape:object-nodes="true"
+     inkscape:snap-bbox="true"
+     inkscape:object-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-nodes="true">
     <inkscape:grid
        type="xygrid"
        id="grid4105"
@@ -108,11 +116,11 @@
        orientation="-12,0"
        id="guide4217" />
     <sodipodi:guide
-       position="13.999992,15"
+       position="11,14"
        orientation="0,-12"
        id="guide4219" />
     <sodipodi:guide
-       position="2.0000086,1"
+       position="9,2"
        orientation="0,11.999984"
        id="guide4225" />
   </sodipodi:namedview>
@@ -133,29 +141,10 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      transform="translate(-3,-29)">
-    <g
-       id="g4211"
-       style="fill:#182128;fill-opacity:1"
-       transform="translate(0,0.5)">
-      <path
-         sodipodi:nodetypes="cccccccccccccccccc"
-         inkscape:connector-curvature="0"
-         id="rect4165"
-         transform="translate(3,29)"
-         d="M 8,1 1,7 1.5,8 3,8 3,14 13,14 13,8 14.25,8 15,7 Z M 8,2.25 13.5,7 12,7 12,13 4,13 4,7 2.5,7 Z"
-         style="fill:#182128;fill-opacity:1;stroke:none" />
-      <path
-         id="rect4197"
-         d="m 9.5,38 3,0 0,5 -3,0 z"
-         style="fill:#182128;fill-opacity:1;stroke:none"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="ccccc" />
-      <path
-         sodipodi:nodetypes="ccccc"
-         inkscape:connector-curvature="0"
-         style="fill:#182128;fill-opacity:1;stroke:none"
-         d="m 14,31 2,0 0,4 -2,-2 z"
-         id="path4209" />
-    </g>
+    <path
+       style="fill:#a10865;fill-opacity:1;fill-rule:nonzero;stroke:#00ff00;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 2 2 C 1.446 2 1 2.446 1 3 L 1 4 L 1 5 L 1 6 L 1 13 L 1 14 L 2 14 L 15 14 L 15 13 L 15 4 L 9 4 L 9 3 C 9 2.446 8.554 2 8 2 L 2 2 z M 2.4042969 3 L 7.5957031 3 C 7.8191751 3 8 3.1808249 8 3.4042969 L 8 4.5 L 6.5 6 L 2 6 L 2 3.4042969 C 2 3.1808249 2.1808251 3 2.4042969 3 z M 9 5 L 14 5 L 14 13 L 2 13 L 2 7 L 7 7 L 9 5 z "
+       transform="translate(3,29)"
+       id="rect4165" />
   </g>
 </svg>

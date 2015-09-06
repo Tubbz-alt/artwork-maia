@@ -14,7 +14,7 @@
    id="svg4359"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="folder-home.svg">
+   sodipodi:docname="folder_images.svg">
   <defs
      id="defs4361">
     <linearGradient
@@ -58,21 +58,21 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="11.313709"
-     inkscape:cx="3.4885715"
-     inkscape:cy="6.5934302"
+     inkscape:zoom="33.279062"
+     inkscape:cx="0.8189738"
+     inkscape:cy="7.0186717"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
-     inkscape:window-width="1366"
-     inkscape:window-height="694"
-     inkscape:window-x="-4"
+     inkscape:window-width="1920"
+     inkscape:window-height="996"
+     inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false"
      borderlayer="true"
-     showguides="false"
+     showguides="true"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
@@ -88,7 +88,7 @@
        orientation="16,0"
        id="guide4205" />
     <sodipodi:guide
-       position="0,0"
+       position="17,0"
        orientation="0,16"
        id="guide4207" />
     <sodipodi:guide
@@ -100,19 +100,19 @@
        orientation="0,-16"
        id="guide4211" />
     <sodipodi:guide
-       position="1,7"
+       position="2,19"
        orientation="12,0"
        id="guide4213" />
     <sodipodi:guide
-       position="15,9"
+       position="14,-2"
        orientation="-12,0"
        id="guide4217" />
     <sodipodi:guide
-       position="13.999992,15"
+       position="19,14"
        orientation="0,-12"
        id="guide4219" />
     <sodipodi:guide
-       position="2.0000086,1"
+       position="17,2"
        orientation="0,11.999984"
        id="guide4225" />
   </sodipodi:namedview>
@@ -133,29 +133,10 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      transform="translate(-3,-29)">
-    <g
-       id="g4211"
-       style="fill:#182128;fill-opacity:1"
-       transform="translate(0,0.5)">
-      <path
-         sodipodi:nodetypes="cccccccccccccccccc"
-         inkscape:connector-curvature="0"
-         id="rect4165"
-         transform="translate(3,29)"
-         d="M 8,1 1,7 1.5,8 3,8 3,14 13,14 13,8 14.25,8 15,7 Z M 8,2.25 13.5,7 12,7 12,13 4,13 4,7 2.5,7 Z"
-         style="fill:#182128;fill-opacity:1;stroke:none" />
-      <path
-         id="rect4197"
-         d="m 9.5,38 3,0 0,5 -3,0 z"
-         style="fill:#182128;fill-opacity:1;stroke:none"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="ccccc" />
-      <path
-         sodipodi:nodetypes="ccccc"
-         inkscape:connector-curvature="0"
-         style="fill:#182128;fill-opacity:1;stroke:none"
-         d="m 14,31 2,0 0,4 -2,-2 z"
-         id="path4209" />
-    </g>
+    <path
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#182128;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="M 2 2 L 2 3 L 2 13 L 2 14 L 3 14 L 13 14 L 14 14 L 14 13 L 14 3 L 14 2 L 13 2 L 3 2 L 2 2 z M 3 3 L 13 3 L 13 8.8828125 L 11.447266 5.7773438 C 11.36345 5.6088258 11.19211 5.5016441 11.003906 5.5 C 10.826666 5.49818 10.661707 5.590317 10.570312 5.7421875 L 7.9003906 10.193359 L 6.3535156 8.6464844 C 6.1456171 8.438097 5.8035876 8.4534792 5.6152344 8.6796875 L 3 11.818359 L 3 3 z M 5.5 4 A 1.5 1.5 0 0 0 4 5.5 A 1.5 1.5 0 0 0 5.5 7 A 1.5 1.5 0 0 0 7 5.5 A 1.5 1.5 0 0 0 5.5 4 z M 10.960938 7.0390625 L 13 11.117188 L 13 13 L 3.3183594 13 L 6.0332031 9.7402344 L 7.6464844 11.353516 C 7.8763865 11.584389 8.2621433 11.537238 8.4296875 11.257812 L 10.960938 7.0390625 z "
+       transform="translate(3,29)"
+       id="path4162" />
   </g>
 </svg>

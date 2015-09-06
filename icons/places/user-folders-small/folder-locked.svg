@@ -15,28 +15,28 @@
    version="1.1"
    inkscape:version="0.91 r13725"
    viewBox="0 0 16 16"
-   sodipodi:docname="certificate-server.svg">
+   sodipodi:docname="folder-locked.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
-     bordercolor="#ffffff"
+     bordercolor="#666666"
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="22.4"
-     inkscape:cx="3.0626546"
-     inkscape:cy="2.5061893"
+     inkscape:zoom="31.678384"
+     inkscape:cx="-1.6696203"
+     inkscape:cy="4.7308117"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:showpageshadow="false"
      borderlayer="true"
      units="px"
-     inkscape:window-width="1366"
-     inkscape:window-height="695"
-     inkscape:window-x="-4"
+     inkscape:window-width="1920"
+     inkscape:window-height="996"
+     inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:snap-global="true"
@@ -81,8 +81,8 @@
     <path
        inkscape:connector-curvature="0"
        style="fill:#182128;fill-opacity:1;stroke:none"
-       d="m 8,1038.3622 c -1.662,0 -3,1.338 -3,3 l 0,3 -2,0 0,0.75 0,5.25 10,0 0,-6 -2,0 0,-3 c 0,-1.662 -1.338,-3 -3,-3 z m 0,1 c 1.2465,0 2,0.5458 2,2 l 0,3 -4,0 0,-3 c 0,-1.4542 0.753506,-2 2,-2 z"
+       d="m 8,1038.3622 c -1.662,0 -3,1.338 -3,3 l 0,3 -2,0 0,0.75 0,5.25 c 3.4472235,0 7.033564,0 10,0 l 0,-6 c -0.833333,0 -1.166667,0 -2,0 l 0,-3 c 0,-1.662 -1.338,-3 -3,-3 z m 0,1 c 1.2465,0 2,0.5458 2,2 l 0,3 -4,0 0,-3 c 0,-1.4542 0.753506,-2 2,-2 z m -4,6 8,0 0,4 -8,0 z"
        id="rect4136"
-       sodipodi:nodetypes="sscccccccssssccss" />
+       sodipodi:nodetypes="sscccccccssssccssccccc" />
   </g>
 </svg>

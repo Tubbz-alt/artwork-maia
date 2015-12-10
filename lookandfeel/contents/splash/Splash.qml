@@ -22,6 +22,7 @@ import QtQuick 2.2
 Image {
     id: root
     source: "../components/artwork/background.png"
+    fillMode: Image.PreserveAspectCrop
 
     property int stage
 

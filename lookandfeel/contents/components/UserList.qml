@@ -50,12 +50,12 @@ ListView {
                 iconSource = "artwork/default.face.icon"
             }
         }
-        width: view.userItemWidth
-        faceSize: view.userFaceSize
+        width: ListView.view.userItemWidth
+        faceSize: ListView.view.userFaceSize
 
         onClicked: {
-            view.currentIndex = index;
-            view.userSelected();
+            ListView.view.currentIndex = index;
+            ListView.view.userSelected();
         }
     }
 

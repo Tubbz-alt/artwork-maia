@@ -12,3 +12,9 @@ name=maia
 
 [kcminputrc][Mouse]
 cursorTheme=breeze_cursors
+
+[kwinrc][WindowSwitcher]
+LayoutName=org.kde.breeze.desktop
+
+[kwinrc][DesktopSwitcher]
+LayoutName=org.kde.breeze.desktop

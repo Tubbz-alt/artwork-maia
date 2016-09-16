@@ -23,6 +23,7 @@ include(KDECompilerSettings)
 include(GenerateExportHeader)
 
 add_subdirectory(icons)
+add_subdirectory(icons-dark)
 add_subdirectory(maia)
 add_subdirectory(wallpapers)
 

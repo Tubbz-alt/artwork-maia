@@ -13,7 +13,7 @@ endif(WIN32)
 
 ########### install files ###############
 
-set( maia_icon_dirs  actions apps categories devices emblems extras mimetypes places status)
+set( maia_icon_dirs  actions categories devices emblems extras places status)
 
 
 set(MAIA_INSTALL_DIR ${ICON_INSTALL_DIR}/maia-dark)

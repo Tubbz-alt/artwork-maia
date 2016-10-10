@@ -27,76 +27,66 @@ Image {
     property int stage
 
     onStageChanged: {
-        if (stage == 1) {
-            introAnimation.running = true
-        }
-    }
-    TextMetrics {
-        id: units
-        text: "M"
-        property int gridUnit: boundingRect.height 
-    }
-
-    Rectangle {
-        id: topRect
-        width: parent.width
-        height: units.gridUnit * 14
-        anchors.centerIn: parent
-        color: "#292f34"
-        Column {
-            id: content
-            y: units.gridUnit
-            x: parent.width
-            Image {
-                anchors.horizontalCenter: parent.horizontalCenter
-                source: "images/manjaro.svgz"
-                sourceSize.height: units.gridUnit * 8
-                sourceSize.width: sourceSize.height
-            }
-            Item {
-                width: 1
-                height: Math.round(units.gridUnit * 3 - progressBar.height/2)
-            }
-            Rectangle {
-                id: progressBar
-                radius: height
-                color: "#292f34"
-                height: Math.round(units.gridUnit/2)
-                width: height*32
-                Rectangle {
-                    radius: 3
-                    anchors {
-                        left: parent.left
-                        top: parent.top
-                        bottom: parent.bottom
-                    }
-                    width: (parent.width / 6) * (stage - 1)
-                    color: "#16A085"
-                    Behavior on width {
-                        PropertyAnimation {
-                            duration: 250
-                            easing.type: Easing.InOutQuad
-                        }
-                    }
-                }
-            }
-        }
-        Rectangle {
-            id: separator
-            height: 1
-            color: "#fdfdfd"
-            width: parent.width
-            opacity: 0.4
-            y: parent.height - units.gridUnit * 4
+        if (stage == 2) {
+            introAnimation.running = true;
+        } else if (stage == 5) {
+            introAnimation.target = busyIndicator;
+            introAnimation.from = 1;
+            introAnimation.to = 0;
+            introAnimation.running = true;
         }
     }
 
-    XAnimator {
+    Item {
+        id: content
+        anchors.fill: parent
+        opacity: 0
+        TextMetrics {
+            id: units
+            text: "M"
+            property int gridUnit: boundingRect.height
+            property int largeSpacing: units.gridUnit
+            property int smallSpacing: Math.max(2, gridUnit/4)
+        }
+
+        Image {
+            id: logo
+            //match SDDM/lockscreen avatar positioning
+            property real size: units.gridUnit * 8
+
+            anchors.centerIn: parent
+
+            source: "images/manjaro.svgz"
+
+            sourceSize.width: size
+            sourceSize.height: size
+        }
+
+        Image {
+            id: busyIndicator
+            //again sync from SDDM theme
+            anchors.top: logo.bottom
+            anchors.topMargin: units.largeSpacing
+            anchors.horizontalCenter: parent.horizontalCenter
+            source: "images/busywidget.svgz"
+            sourceSize.height: units.gridUnit * 2
+            sourceSize.width: units.gridUnit * 2
+            RotationAnimator on rotation {
+                id: rotationAnimator
+                from: 0
+                to: 360
+                duration: 1500
+                loops: Animation.Infinite
+            }
+        }
+    }
+
+    OpacityAnimator {
         id: introAnimation
         running: false
         target: content
-        from: root.width
-        to: root.width / 2 - content.width/2
+        from: 0
+        to: 1
         duration: 1000
         easing.type: Easing.InOutQuad
     }

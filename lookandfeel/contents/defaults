@@ -19,6 +19,9 @@ LayoutName=org.kde.breeze.desktop
 [kwinrc][DesktopSwitcher]
 LayoutName=org.kde.breeze.desktop
 
+[kwinrc][WindowDecoration]
+library=org.kde.breeze
+
 [ksplashrc][KSplash]
 Engine=KSplashQML
 Theme=org.kde.maia.desktop

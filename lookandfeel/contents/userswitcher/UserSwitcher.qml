@@ -33,6 +33,7 @@ PlasmaCore.ColorScope {
     colorGroup: PlasmaCore.Theme.ComplementaryColorGroup
 
     signal dismissed
+    signal ungrab
 
     height:screenGeometry.height
     width: screenGeometry.width
@@ -52,6 +53,8 @@ PlasmaCore.ColorScope {
         // returned leaving us do nothing (Bug 356945)
         onStartedNewSession: root.dismissed()
         onSwitchedUser: root.dismissed()
+
+        onAboutToLockScreen: root.ungrab()
     }
 
     Controls.Action {
@@ -63,6 +66,11 @@ PlasmaCore.ColorScope {
         anchors.bottom: parent.verticalCenter
         anchors.bottomMargin: units.gridUnit * 13
         anchors.horizontalCenter: parent.horizontalCenter
+    }
+
+    MouseArea {
+        anchors.fill: parent
+        onClicked: root.dismissed()
     }
 
     SessionManagementScreen {

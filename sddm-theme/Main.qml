@@ -40,13 +40,20 @@ PlasmaCore.ColorScope {
     LayoutMirroring.enabled: Qt.application.layoutDirection === Qt.RightToLeft
     LayoutMirroring.childrenInherit: true
 
+    PlasmaCore.DataSource {
+        id: keystateSource
+        engine: "keystate"
+        connectedSources: "Caps Lock"
+    }
+
     Repeater {
         model: screenModel
 
         Background {
-            x: geometry.x; y: geometry.y; width: geometry.width; height:geometry.height
-            source: config.background
-            fillMode: Image.PreserveAspectCrop
+            x: geometry.x; y: geometry.y; width: geometry.width; height: geometry.height
+            sceneBackgroundType: config.type
+            sceneBackgroundColor: config.color
+            sceneBackgroundImage: config.background
         }
     }
 
@@ -84,9 +91,28 @@ PlasmaCore.ColorScope {
             id: userListComponent
             userListModel: userModel
             userListCurrentIndex: userModel.lastIndex >= 0 ? userModel.lastIndex : 0
-            showUserList: (userListModel.count && userListModel.disableAvatarsThreshold) ? userListModel.count <= userListModel.disableAvatarsThreshold : true
+            lastUserName: userModel.lastUser
+            showUserList: {
+                 if ( !userListModel.hasOwnProperty("count")
+                   || !userListModel.hasOwnProperty("disableAvatarsThreshold"))
+                     return true
 
-            notificationMessage: root.notificationMessage
+                 if ( userListModel.count == 0 ) return false
+
+                 return userListModel.count <= userListModel.disableAvatarsThreshold
+            }
+
+            notificationMessage: {
+                var text = ""
+                if (keystateSource.data["Caps Lock"]["Locked"]) {
+                    text += i18nd("plasma_lookandfeel_org.kde.lookandfeel","Caps Lock is on")
+                    if (root.notificationMessage) {
+                        text += " • "
+                    }
+                }
+                text += root.notificationMessage
+                return text
+            }
 
             actionItems: [
                 ActionButton {

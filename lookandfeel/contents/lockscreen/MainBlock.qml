@@ -28,22 +28,15 @@ import org.kde.plasma.components 2.0 as PlasmaComponents
 import "../components"
 
 SessionManagementScreen {
+
+    property Item mainPasswordBox: passwordBox
     /*
      * Login has been requested with the following username and password
      * If username field is visible, it will be taken from that, otherwise from the "name" property of the currentIndex
      */
     signal loginRequest(string password)
 
-    /*
-     */
-    signal newSession()
-
     function startLogin() {
-        if (userListCurrentIndex == 1) {
-            newSession()
-            return;
-        }
-
         var password = passwordBox.text
 
         //this is partly because it looks nicer
@@ -61,10 +54,9 @@ SessionManagementScreen {
         focus: true
         echoMode: TextInput.Password
         enabled: !authenticator.graceLocked
+        revealPasswordButtonShown: true
 
         onAccepted: startLogin()
-
-        visible: userListCurrentIndex == 0
 
         //if empty and left or right is pressed change selection in user switch
         //this cannot be in keys.onLeftPressed as then it doesn't reach the password box
@@ -92,7 +84,7 @@ SessionManagementScreen {
         id: loginButton
         Layout.fillWidth: true
 
-        text: userListCurrentIndex == 0 ? i18nd("plasma_lookandfeel_org.kde.lookandfeel", "Unlock") : i18nd("plasma_lookandfeel_org.kde.lookandfeel", "Start New Session")
+        text: i18nd("plasma_lookandfeel_org.kde.lookandfeel", "Unlock")
         onClicked: startLogin()
     }
 }

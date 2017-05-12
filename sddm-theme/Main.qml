@@ -51,7 +51,13 @@ PlasmaCore.ColorScope {
 
         Background {
             x: geometry.x; y: geometry.y; width: geometry.width; height: geometry.height
-            sceneBackgroundType: config.type
+            sceneBackgroundType: 
+            {
+                if ( config.background == "components/artwork/background.png"
+                    && config.type != "color" ) 
+                    return "image"
+                return config.type
+            }
             sceneBackgroundColor: config.color
             sceneBackgroundImage: config.background
         }

@@ -30,6 +30,10 @@ import "../components"
 SessionManagementScreen {
 
     property Item mainPasswordBox: passwordBox
+
+    //the y position that should be ensured visible when the on screen keyboard is visible
+    property int visibleBoundary: mapFromItem(loginButton, 0, 0).y
+    onHeightChanged: visibleBoundary = mapFromItem(loginButton, 0, 0).y + loginButton.height + units.smallSpacing
     /*
      * Login has been requested with the following username and password
      * If username field is visible, it will be taken from that, otherwise from the "name" property of the currentIndex
@@ -53,6 +57,7 @@ SessionManagementScreen {
         placeholderText: i18nd("plasma_lookandfeel_org.kde.lookandfeel", "Password")
         focus: true
         echoMode: TextInput.Password
+        inputMethodHints: Qt.ImhHiddenText | Qt.ImhSensitiveData | Qt.ImhNoAutoUppercase | Qt.ImhNoPredictiveText
         enabled: !authenticator.graceLocked
         revealPasswordButtonShown: true
 

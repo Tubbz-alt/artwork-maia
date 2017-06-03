@@ -108,9 +108,11 @@ PlasmaCore.ColorScope {
             }
 
         Clock {
-            anchors.bottom: parent.verticalCenter
-            anchors.bottomMargin: units.gridUnit * 13
+            id: clock
             anchors.horizontalCenter: parent.horizontalCenter
+            y: (mainBlock.userList.y + mainStack.y)/2 - height/2
+            visible: y > 0
+            Layout.alignment: Qt.AlignBaseline
         }
 
         ListModel {
@@ -125,13 +127,20 @@ PlasmaCore.ColorScope {
             }
         }
 
+
         StackView {
             id: mainStack
-            anchors.fill: parent
+            anchors {
+                left: parent.left
+                right: parent.right
+            }
+            height: lockScreenRoot.height
             focus: true //StackView is an implicit focus scope, so we need to give this focus so the item inside will have it
 
             initialItem: MainBlock {
                 id: mainBlock
+
+                showUserList: userList.y + mainStack.y > 0
 
                 Stack.onStatusChanged: {
                     // prepare for presenting again to the user
@@ -167,7 +176,118 @@ PlasmaCore.ColorScope {
                         visible: (sessionsModel.count > 0 || sessionsModel.canStartNewSession) && sessionsModel.canSwitchUser
                     }
                 ]
+
+                Loader {
+                    Layout.fillWidth: true
+                    Layout.preferredHeight: item ? item.implicitHeight : 0
+                    active: true // TODO configurable
+                    source: "MediaControls.qml"
+                }
             }
+        }
+
+        Loader {
+            id: inputPanel
+            state: "hidden"
+            readonly property bool keyboardActive: item ? item.active : false
+            anchors {
+                left: parent.left
+                right: parent.right
+            }
+            function showHide() {
+                state = state == "hidden" ? "visible" : "hidden";
+            }
+            Component.onCompleted: inputPanel.source = "../components/VirtualKeyboard.qml"
+            
+            states: [
+                State {
+                    name: "visible"
+                    PropertyChanges {
+                        target: mainStack
+                        y: Math.min(0, lockScreenRoot.height - inputPanel.height - mainBlock.visibleBoundary)
+                    }
+                    PropertyChanges {
+                        target: inputPanel
+                        y: lockScreenRoot.height - inputPanel.height
+                        opacity: 1
+                    }
+                },
+                State {
+                    name: "hidden"
+                    PropertyChanges {
+                        target: mainStack
+                        y: 0
+                    }
+                    PropertyChanges {
+                        target: inputPanel
+                        y: lockScreenRoot.height - lockScreenRoot.height/4
+                        opacity: 0
+                    }
+                }
+            ]
+            transitions: [
+                Transition {
+                    from: "hidden"
+                    to: "visible"
+                    SequentialAnimation {
+                        ScriptAction {
+                            script: {
+                                inputPanel.item.activated = true;
+                                Qt.inputMethod.show();
+                            }
+                        }
+                        ParallelAnimation {
+                            NumberAnimation {
+                                target: mainStack
+                                property: "y"
+                                duration: units.longDuration
+                                easing.type: Easing.InOutQuad
+                            }
+                            NumberAnimation {
+                                target: inputPanel
+                                property: "y"
+                                duration: units.longDuration
+                                easing.type: Easing.OutQuad
+                            }
+                            OpacityAnimator {
+                                target: inputPanel
+                                duration: units.longDuration
+                                easing.type: Easing.OutQuad
+                            }
+                        }
+                    }
+                },
+                Transition {
+                    from: "visible"
+                    to: "hidden"
+                    SequentialAnimation {
+                        ParallelAnimation {
+                            NumberAnimation {
+                                target: mainStack
+                                property: "y"
+                                duration: units.longDuration
+                                easing.type: Easing.InOutQuad
+                            }
+                            NumberAnimation {
+                                target: inputPanel
+                                property: "y"
+                                duration: units.longDuration
+                                easing.type: Easing.InQuad
+                            }
+                            OpacityAnimator {
+                                target: inputPanel
+                                duration: units.longDuration
+                                easing.type: Easing.InQuad
+                            }
+                        }
+                        ScriptAction {
+                            script: {
+                                Qt.inputMethod.hide();
+                            }
+                        }
+                    }
+                }
+            ]
         }
 
         Component {
@@ -234,6 +354,14 @@ PlasmaCore.ColorScope {
                 left: parent.left
                 right: parent.right
                 margins: units.smallSpacing
+            }
+
+            PlasmaComponents.ToolButton {
+                text: i18ndc("plasma_lookandfeel_org.kde.lookandfeel", "Button to show/hide virtual keyboard", "Virtual Keyboard")
+                iconName: inputPanel.keyboardActive ? "input-keyboard-virtual-on" : "input-keyboard-virtual-off"
+                onClicked: inputPanel.showHide()
+
+                visible: inputPanel.status == Loader.Ready
             }
 
             KeyboardLayoutButton {
